@@ -1,0 +1,185 @@
+export const slideData = {
+    "pmid": "31706300",
+    "doi": "10.1186/s12933-019-0951-9",
+    "pmc": "PMC6842201",
+    "title": "Alirocumab therapy in individuals with type 2 diabetes mellitus and atherosclerotic cardiovascular disease: analysis of the ODYSSEY DM-DYSLIPIDEMIA and DM-INSULIN studies",
+    "title_cn": "Alirocumab\u6cbb\u75972\u578b\u7cd6\u5c3f\u75c5\u548c\u52a8\u8109\u7ca5\u6837\u786c\u5316\u6027\u5fc3\u8840\u7ba1\u75be\u75c5\u60a3\u8005\uff1aODYSSEY DM-DYSLIPIDEMIA\u548cDM-INSULIN\u7814\u7a76\u5206\u6790\u3002",
+    "journal": "Cardiovascular Diabetology",
+    "pubdate": "9-11-2019",
+    "authors": [
+        [
+            "Ray",
+            "Kausik K.",
+            "Aff1"
+        ],
+        [
+            "Del Prato",
+            "Stefano",
+            "Aff2"
+        ],
+        [
+            "M\u00fcller-Wieland",
+            "Dirk",
+            "Aff3"
+        ],
+        [
+            "Cariou",
+            "Bertrand",
+            "Aff4"
+        ],
+        [
+            "Colhoun",
+            "Helen M.",
+            "Aff5"
+        ],
+        [
+            "Tinahones",
+            "Francisco J.",
+            "Aff6"
+        ],
+        [
+            "Domenger",
+            "Catherine",
+            "Aff7"
+        ],
+        [
+            "Letierce",
+            "Alexia",
+            "Aff8"
+        ],
+        [
+            "Mandel",
+            "Jonas",
+            "Aff9"
+        ],
+        [
+            "Samuel",
+            "Rita",
+            "Aff10"
+        ],
+        [
+            "Bujas-Bobanovic",
+            "Maja",
+            "Aff11"
+        ],
+        [
+            "Leiter",
+            "Lawrence A.",
+            "Aff12"
+        ]
+    ],
+    "affiliations": [
+        [
+            "Aff1",
+            "0000 0001 2113 8111  grid.7445.2  Imperial Centre for Cardiovascular Disease Prevention, Department of Primary Care and Public Health,   Imperial College,   Kensington, London, SW7 2AZ UK"
+        ],
+        [
+            "Aff2",
+            "0000 0004 1757 3729  grid.5395.a  Department of Clinical and Experimental Medicine,   University of Pisa,   Pisa, Italy"
+        ],
+        [
+            "Aff3",
+            "0000 0000 8653 1507  grid.412301.5  Department of Internal Medicine I,   University Hospital Aachen,   Aachen, Germany"
+        ],
+        [
+            "Aff4",
+            "0000 0004 0472 0371  grid.277151.7  l\u2019institut du thorax, Department of Endocrinology,   CHU Nantes, INSERM,   1413 Nantes, France"
+        ],
+        [
+            "Aff5",
+            "0000 0004 1936 7988  grid.4305.2  University of Edinburgh,   Edinburgh, Scotland, UK"
+        ],
+        [
+            "Aff6",
+            "Department of Clinical Endocrinology and Nutrition (IBIMA), Hospital Virgen de la Victoria, University of M\u00e1laga, CIBER Fisiopatolog\u00eda de la Obesidad y Nutrici\u00f3n (CIBERobn), Instituto de Salud Carlos III, M\u00e1laga, Spain"
+        ],
+        [
+            "Aff7",
+            "grid.417924.d  Sanofi,   Gentilly, France"
+        ],
+        [
+            "Aff8",
+            "grid.417924.d  Biostatistics and Programming Department,   Sanofi,   Chilly-Mazarin, France"
+        ],
+        [
+            "Aff9",
+            "IviData Stats, Levallois-Perret, France"
+        ],
+        [
+            "Aff10",
+            "0000 0004 0472 2713  grid.418961.3  Regeneron Pharmaceuticals, Inc.,   Tarrytown, New York, NY USA"
+        ],
+        [
+            "Aff11",
+            "grid.417924.d  Sanofi,   Paris, France"
+        ],
+        [
+            "Aff12",
+            "0000 0001 2157 2938  grid.17063.33  Li Ka Shing Knowledge Institute, St. Michael\u2019s Hospital,   University of Toronto,   Toronto, ON Canada"
+        ]
+    ],
+    "keywords": [
+        "Alirocumab",
+        "Atherosclerotic cardiovascular disease",
+        "Type 2 diabetes mellitus",
+        "Low-density lipoprotein cholesterol",
+        "Dyslipidemia"
+    ],
+    "abstract": "  Background  Individuals with diabetes often have high levels of atherogenic lipoproteins and cholesterol reflected by elevated low-density lipoprotein cholesterol (LDL-C), non-high-density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (ApoB), and LDL particle number (LDL-PN). The presence of atherosclerotic cardiovascular disease (ASCVD) increases the risk of future cardiovascular events. We evaluated the efficacy and safety of the proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor, alirocumab, among individuals with type 2 diabetes (T2DM), high LDL-C or non-HDL-C, and established ASCVD receiving maximally tolerated statin in ODYSSEY DM-DYSLIPIDEMIA (NCT02642159) and DM-INSULIN (NCT02585778).    Methods  In DM-DYSLIPIDEMIA, individuals with T2DM and mixed dyslipidemia (non-HDL-C\u2009\u2265\u2009100\u00a0mg/dL; n\u2009=\u2009413) were randomized to open-label alirocumab 75\u00a0mg every 2\u00a0weeks (Q2W) or usual care (UC) for 24\u00a0weeks, with UC options selected before stratified randomization. In DM-INSULIN, insulin-treated individuals with T2DM (LDL-C\u2009\u2265\u200970\u00a0mg/dL; n\u2009=\u2009441) were randomized in a double-blind fashion to alirocumab 75\u00a0mg Q2W or placebo for 24\u00a0weeks. Study participants also had a glycated hemoglobin\u2009<\u20099% (DM-DYSLIPIDEMIA) or\u2009<\u200910% (DM-INSULIN). Alirocumab dose was increased to 150\u00a0mg Q2W at week 12 if week 8 LDL-C was\u2009\u2265\u200970\u00a0mg/dL (DM-INSULIN) or non-HDL-C was\u2009\u2265\u2009100\u00a0mg/dL (DM-DYSLIPIDEMIA). Lipid reductions and safety were assessed in patients with ASCVD from these studies.    Results  This analysis included 142 DM-DYSLIPIDEMIA and 177 DM-INSULIN participants with ASCVD, including 95.1% and 86.4% with coronary heart disease, and 32.4% and 49.7% with microvascular diabetes complications, respectively. At week 24, alirocumab significantly reduced LDL-C, non-HDL-C, ApoB, and LDL-PN from baseline versus control. This translated into a greater proportion of individuals achieving non-HDL-C\u2009<\u2009100\u00a0mg/dL (64.6% alirocumab/23.8% UC [DM-DYSLIPIDEMIA]; 65.4% alirocumab/14.9% placebo [DM-INSULIN]) and ApoB\u2009<\u200980\u00a0mg/dL (75.1% alirocumab/35.4% UC and 76.8% alirocumab/24.8% placebo, respectively) versus control at week 24 (all P <\u20090.0001). In pooling these studies, 66.4% (alirocumab) and 67.0% (control) of individuals reported treatment-emergent adverse events. The adverse event pattern was similar with alirocumab versus controls.    Conclusions  Among individuals with T2DM and ASCVD who had high non-HDL-C/LDL-C levels despite maximally tolerated statin, alirocumab significantly reduced atherogenic cholesterol and LDL-PN versus control. Alirocumab was generally well tolerated.  Trial registration Clinicaltrials.gov. NCT02642159. Registered 30 December 2015 and Clinicaltrials.gov. NCT02585778. Registered 23 October 2015  ",
+    "abstract_list": [
+        [
+            "Background",
+            "Individuals with diabetes often have high levels of atherogenic lipoproteins and cholesterol reflected by elevated low-density lipoprotein cholesterol (LDL-C), non-high-density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (ApoB), and LDL particle number (LDL-PN). The presence of atherosclerotic cardiovascular disease (ASCVD) increases the risk of future cardiovascular events. We evaluated the efficacy and safety of the proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor, alirocumab, among individuals with type 2 diabetes (T2DM), high LDL-C or non-HDL-C, and established ASCVD receiving maximally tolerated statin in ODYSSEY DM-DYSLIPIDEMIA (NCT02642159) and DM-INSULIN (NCT02585778)."
+        ],
+        [
+            "Methods",
+            "In DM-DYSLIPIDEMIA, individuals with T2DM and mixed dyslipidemia (non-HDL-C\u2009\u2265\u2009100\u00a0mg/dL; n\u2009=\u2009413) were randomized to open-label alirocumab 75\u00a0mg every 2\u00a0weeks (Q2W) or usual care (UC) for 24\u00a0weeks, with UC options selected before stratified randomization. In DM-INSULIN, insulin-treated individuals with T2DM (LDL-C\u2009\u2265\u200970\u00a0mg/dL; n\u2009=\u2009441) were randomized in a double-blind fashion to alirocumab 75\u00a0mg Q2W or placebo for 24\u00a0weeks. Study participants also had a glycated hemoglobin\u2009<\u20099% (DM-DYSLIPIDEMIA) or\u2009<\u200910% (DM-INSULIN). Alirocumab dose was increased to 150\u00a0mg Q2W at week 12 if week 8 LDL-C was\u2009\u2265\u200970\u00a0mg/dL (DM-INSULIN) or non-HDL-C was\u2009\u2265\u2009100\u00a0mg/dL (DM-DYSLIPIDEMIA). Lipid reductions and safety were assessed in patients with ASCVD from these studies."
+        ],
+        [
+            "Results",
+            "This analysis included 142 DM-DYSLIPIDEMIA and 177 DM-INSULIN participants with ASCVD, including 95.1% and 86.4% with coronary heart disease, and 32.4% and 49.7% with microvascular diabetes complications, respectively. At week 24, alirocumab significantly reduced LDL-C, non-HDL-C, ApoB, and LDL-PN from baseline versus control. This translated into a greater proportion of individuals achieving non-HDL-C\u2009<\u2009100\u00a0mg/dL (64.6% alirocumab/23.8% UC [DM-DYSLIPIDEMIA]; 65.4% alirocumab/14.9% placebo [DM-INSULIN]) and ApoB\u2009<\u200980\u00a0mg/dL (75.1% alirocumab/35.4% UC and 76.8% alirocumab/24.8% placebo, respectively) versus control at week 24 (all P\u2009<\u20090.0001). In pooling these studies, 66.4% (alirocumab) and 67.0% (control) of individuals reported treatment-emergent adverse events. The adverse event pattern was similar with alirocumab versus controls."
+        ],
+        [
+            "Conclusions",
+            "Among individuals with T2DM and ASCVD who had high non-HDL-C/LDL-C levels despite maximally tolerated statin, alirocumab significantly reduced atherogenic cholesterol and LDL-PN versus control. Alirocumab was generally well tolerated."
+        ]
+    ],
+    "figures": [
+        {
+            "pmid": "31706300",
+            "pmc": "6842201",
+            "fig_caption": "Percentage change from baseline to week 24 in non-HDL-C, LDL-C, ApoB, LDL-PN (ITT). Apo apolipoprotein, HDL-C high-density lipoprotein cholesterol, ITT intent-to-treat, LDL-C low-density lipoprotein cholesterol, LDL-PN low-density lipoprotein particle number, LS least-squares, SE standard error, UC usual care",
+            "fig_id": "Fig1",
+            "fig_label": "Fig.\u00a01",
+            "graphic_ref": "12933_2019_951_Fig1_HTML"
+        },
+        {
+            "pmid": "31706300",
+            "pmc": "6842201",
+            "fig_caption": "Percentage of individuals achieving non-HDL-C, LDL-C, and ApoB targets at week 24 (ITT). Non-HDL-C: 100\u00a0mg/dL\u2009=\u20092.59\u00a0mmol/L; LDL-C: 70\u00a0mg/dL\u2009=\u20091.81\u00a0mmol/L. Apo apolipoprotein, HDL-C high-density lipoprotein cholesterol, ITT intent-to-treat, LDL-C low-density lipoprotein cholesterol, UC usual care",
+            "fig_id": "Fig2",
+            "fig_label": "Fig.\u00a02",
+            "graphic_ref": "12933_2019_951_Fig2_HTML"
+        }
+    ],
+    "tables": [
+        [
+            "Table\u00a01",
+            "Baseline characteristics (randomized population)",
+            "<table id=\"table1\" frame=\"hsides\" rules=\"groups\"><thead><tr><th align=\"left\" rowspan=\"2\" /><th align=\"left\" colspan=\"2\">DM-DYSLIPIDEMIA</th><th align=\"left\" colspan=\"2\">DM-INSULIN</th></tr><tr><th align=\"left\">Alirocumab (n&#8201;=&#8201;95)</th><th align=\"left\">UC (n&#8201;=&#8201;47)</th><th align=\"left\">Alirocumab (n&#8201;=&#8201;119)</th><th align=\"left\">Placebo (n&#8201;=&#8201;58)</th></tr></thead><tbody><tr><td align=\"left\">Age, years, mean (SD)</td><td align=\"left\">64.9 (9.1)</td><td align=\"left\">65.4 (8.1)</td><td align=\"left\">66.2 (8.7)</td><td align=\"left\">64.9 (8.9)</td></tr><tr><td align=\"left\">Gender, male, n (%)</td><td align=\"left\">65 (68.4)</td><td align=\"left\">31 (66.0)</td><td align=\"left\">79 (66.4)</td><td align=\"left\">32 (55.2)</td></tr><tr><td align=\"left\">BMI, kg/m<sup>2</sup>, mean (SD)</td><td align=\"left\">33.0 (5.4)</td><td align=\"left\">32.7 (4.9)</td><td align=\"left\">32.6 (4.5)</td><td align=\"left\">33.4 (5.8)</td></tr><tr><td align=\"left\">CHD, n (%)</td><td align=\"left\">90 (94.7)</td><td align=\"left\">45 (95.7)</td><td align=\"left\">102 (85.7)</td><td align=\"left\">51 (87.9)</td></tr><tr><td align=\"left\">&#160;Acute MI</td><td align=\"left\">43 (45.3)</td><td align=\"left\">20 (42.6)</td><td align=\"left\">59 (49.6)</td><td align=\"left\">18 (31.0)</td></tr><tr><td align=\"left\">&#160;Silent MI</td><td align=\"left\">5 (5.3)</td><td align=\"left\">1 (2.1)</td><td align=\"left\">4 (3.4)</td><td align=\"left\">4 (6.9)</td></tr><tr><td align=\"left\">&#160;Unstable angina</td><td align=\"left\">15 (15.8)</td><td align=\"left\">9 (19.1)</td><td align=\"left\">15 (12.6)</td><td align=\"left\">4 (6.9)</td></tr><tr><td align=\"left\">&#160;Coronary revascularization</td><td align=\"left\">77 (81.1)</td><td align=\"left\">35 (74.5)</td><td align=\"left\">80 (67.2)</td><td align=\"left\">37 (63.8)</td></tr><tr><td align=\"left\">&#160;Other clinically significant CHD<sup>a</sup></td><td align=\"left\">20 (21.1)</td><td align=\"left\">14 (29.8)</td><td align=\"left\">31 (26.1)</td><td align=\"left\">15 (25.9)</td></tr><tr><td align=\"left\">Ischemic stroke, n (%)</td><td align=\"left\">14 (14.7)</td><td align=\"left\">5 (10.6)</td><td align=\"left\">27 (22.7)</td><td align=\"left\">9 (15.5)</td></tr><tr><td align=\"left\">PAD, n (%)</td><td align=\"left\">6 (6.3)</td><td align=\"left\">4 (8.5)</td><td align=\"left\">13 (10.9)</td><td align=\"left\">6 (10.3)</td></tr><tr><td align=\"left\">HTN<sup>b</sup>, n (%)</td><td align=\"left\">89 (93.7)</td><td align=\"left\">44 (93.6)</td><td align=\"left\">105 (88.2)</td><td align=\"left\">53 (91.4)</td></tr><tr><td align=\"left\">CKD<sup>c</sup>, n (%)</td><td align=\"left\">15 (15.8)</td><td align=\"left\">11 (23.4)</td><td align=\"left\">37 (31.1)</td><td align=\"left\">13 (22.4)</td></tr><tr><td align=\"left\">Diabetes target organ damage<sup>d</sup>, n (%)</td><td align=\"left\">31 (32.6)</td><td align=\"left\">15 (31.9)</td><td align=\"left\">60 (50.4)</td><td align=\"left\">28 (48.3)</td></tr><tr><td align=\"left\">Statin, n (%)</td><td align=\"left\">80 (84.2)</td><td align=\"left\">41 (87.2)</td><td align=\"left\">92 (77.3)</td><td align=\"left\">42 (72.4)</td></tr><tr><td align=\"left\">&#160;Low intensity</td><td align=\"left\">6 (7.5)</td><td align=\"left\">0</td><td align=\"left\">3 (3.3)</td><td align=\"left\">1 (2.4)</td></tr><tr><td align=\"left\">&#160;Moderate intensity</td><td align=\"left\">21 (26.3)</td><td align=\"left\">20 (48.8)</td><td align=\"left\">46 (50.0)</td><td align=\"left\">24 (57.1)</td></tr><tr><td align=\"left\">&#160;High intensity</td><td align=\"left\">53 (66.3)</td><td align=\"left\">21 (51.2)</td><td align=\"left\">43 (46.7)</td><td align=\"left\">16 (38.1)</td></tr><tr><td align=\"left\">LLT other than statin<sup>e</sup>, n (%)</td><td align=\"left\">0</td><td align=\"left\">2 (4.3)</td><td align=\"left\">34 (28.6)</td><td align=\"left\">11 (19.0)</td></tr><tr><td align=\"left\">HbA1c, %, mean (SD)</td><td align=\"left\">7.0 (0.8)</td><td align=\"left\">7.2 (0.8)</td><td align=\"left\">7.5 (0.9)</td><td align=\"left\">7.4 (1.0)</td></tr><tr><td align=\"left\">FPG, mg/dL [mmol/L], mean (SD)</td><td align=\"left\">144.1 (39.3) [8.0 (2.2)]</td><td align=\"left\">152.6 (41.7) [8.5 (2.3)]</td><td align=\"left\">162.6 (52.5) [9.0 (2.9)]</td><td align=\"left\">146.7 (45.2) [8.1 (2.5)]</td></tr><tr><td align=\"left\">Insulin, n (%)</td><td align=\"left\">40 (42.1)</td><td align=\"left\">19 (40.4)</td><td align=\"left\">119 (100)</td><td align=\"left\">57 (98.3)<sup>f</sup></td></tr><tr><td align=\"left\" colspan=\"5\">Non-insulin GLT, n (%)</td></tr><tr><td align=\"left\">&#160;Biguanides</td><td align=\"left\">72 (75.8)</td><td align=\"left\">34 (72.3)</td><td align=\"left\">57 (47.9)</td><td align=\"left\">33 (56.9)</td></tr><tr><td align=\"left\">&#160;Sulfonylureas</td><td align=\"left\">29 (30.5)</td><td align=\"left\">18 (38.3)</td><td align=\"left\">11 (9.2)</td><td align=\"left\">7 (12.1)</td></tr><tr><td align=\"left\">&#160;DPP-4 inhibitor</td><td align=\"left\">12 (12.6)</td><td align=\"left\">8 (17.0)</td><td align=\"left\">21 (17.6)</td><td align=\"left\">7 (12.1)</td></tr><tr><td align=\"left\">&#160;GLP-1 receptor agonist</td><td align=\"left\">16 (16.8)</td><td align=\"left\">6 (12.8)</td><td align=\"left\">11 (9.2)</td><td align=\"left\">8 (13.8)</td></tr><tr><td align=\"left\">&#160;SGLT2 inhibitor</td><td align=\"left\">10 (10.5)</td><td align=\"left\">5 (10.6)</td><td align=\"left\">10 (8.4)</td><td align=\"left\">11 (19.0)</td></tr><tr><td align=\"left\" colspan=\"5\">Lipids, mg/dL [mmol/L], mean (SD)</td></tr><tr><td align=\"left\">&#160;Non-HDL-C</td><td align=\"left\">156.5 (48.4) [4.05 (1.26)]</td><td align=\"left\">156.8 (43.3) [4.06 (1.12)]</td><td align=\"left\">142.8 (41.5) [3.70 (1.08)]</td><td align=\"left\">147.0 (54.9) [3.81 (1.42)]</td></tr><tr><td align=\"left\">&#160;LDL-C</td><td align=\"left\">108.3 (46.3) [2.81 (1.20)]</td><td align=\"left\">109.4 (44.0) [2.83 (1.14)]</td><td align=\"left\">107.2 (35.1) [2.78 (0.91)]</td><td align=\"left\">111.9 (46.4) [2.90 (1.20)]</td></tr><tr><td align=\"left\">&#160;ApoB</td><td align=\"left\">103.0 (26.7)</td><td align=\"left\">104.3 (27.8)</td><td align=\"left\">96.4 (25.1)</td><td align=\"left\">98.7 (32.0)</td></tr><tr><td align=\"left\">&#160;LDL-PN, nmol/L, mean (SD)</td><td align=\"left\">1400.2 (489.8)</td><td align=\"left\">1437.4 (479.4)</td><td align=\"left\">1339.5 (408.5)</td><td align=\"left\">1425.0 (467.9)</td></tr></tbody></table>",
+            []
+        ],
+        [
+            "Table\u00a02",
+            "Safety summary (pool of DM-INSULIN and DM-DYSLIPIDEMIA; safety population)",
+            "<table frame=\"hsides\" rules=\"groups\"><thead><tr><th align=\"left\">n (%)</th><th align=\"left\">Alirocumab (n&#8201;=&#8201;213)</th><th align=\"left\">Control (n&#8201;=&#8201;104)</th></tr></thead><tbody><tr><td align=\"left\">TEAEs</td><td align=\"char\" char=\"(\">142 (66.7)</td><td align=\"char\" char=\"(\">70 (67.3)</td></tr><tr><td align=\"left\">Treatment-emergent SAEs</td><td align=\"char\" char=\"(\">28 (13.1)</td><td align=\"char\" char=\"(\">10 (9.6)</td></tr><tr><td align=\"left\">TEAEs leading to death</td><td align=\"char\" char=\"(\">1 (0.5)</td><td align=\"char\" char=\"(\">1 (1.0)</td></tr><tr><td align=\"left\" colspan=\"3\">TEAEs occurring in &#8805;&#8201;2% of individuals by preferred term</td></tr><tr><td align=\"left\">&#160;Urinary tract infection</td><td align=\"char\" char=\"(\">8 (3.8)</td><td align=\"char\" char=\"(\">6 (5.8)</td></tr><tr><td align=\"left\">&#160;Diarrhea</td><td align=\"char\" char=\"(\">8 (3.8)</td><td align=\"char\" char=\"(\">6 (5.8)</td></tr><tr><td align=\"left\">&#160;Hypertension</td><td align=\"char\" char=\"(\">8 (3.8)</td><td align=\"char\" char=\"(\">4 (3.8)</td></tr><tr><td align=\"left\">&#160;Influenza</td><td align=\"char\" char=\"(\">7 (3.3)</td><td align=\"char\" char=\"(\">4 (3.8)</td></tr><tr><td align=\"left\">&#160;Headache</td><td align=\"char\" char=\"(\">7 (3.3)</td><td align=\"char\" char=\"(\">1 (1.0)</td></tr><tr><td align=\"left\">&#160;Musculoskeletal pain</td><td align=\"char\" char=\"(\">7 (3.3)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Nasopharyngitis</td><td align=\"char\" char=\"(\">6 (2.8)</td><td align=\"char\" char=\"(\">5 (4.8)</td></tr><tr><td align=\"left\">&#160;Back pain</td><td align=\"char\" char=\"(\">6 (2.8)</td><td align=\"char\" char=\"(\">2 (1.9)</td></tr><tr><td align=\"left\">&#160;Dizziness</td><td align=\"char\" char=\"(\">6 (2.8)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Fatigue</td><td align=\"char\" char=\"(\">5 (2.3)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Cataract</td><td align=\"char\" char=\"(\">5 (2.3)</td><td align=\"char\" char=\"(\">1 (1.0)</td></tr><tr><td align=\"left\">&#160;Myalgia</td><td align=\"char\" char=\"(\">5 (2.3)</td><td align=\"char\" char=\"(\">1 (1.0)</td></tr><tr><td align=\"left\">&#160;Nausea</td><td align=\"char\" char=\"(\">4 (1.9)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Pain in extremity</td><td align=\"char\" char=\"(\">4 (1.9)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Arthralgia</td><td align=\"char\" char=\"(\">3 (1.4)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Bronchitis</td><td align=\"char\" char=\"(\">3 (1.4)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Hypotension</td><td align=\"char\" char=\"(\">2 (0.9)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Cough</td><td align=\"char\" char=\"(\">1 (0.5)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr><tr><td align=\"left\">&#160;Hyperglycemia</td><td align=\"char\" char=\"(\">0 (0.0)</td><td align=\"char\" char=\"(\">3 (2.9)</td></tr></tbody></table>",
+            []
+        ],
+        [
+            "Table\u00a03",
+            "Safety summary (randomized population)",
+            "<table frame=\"hsides\" rules=\"groups\"><thead><tr><th align=\"left\" rowspan=\"2\" /><th align=\"left\" colspan=\"2\">DM-DYSLIPIDEMIA</th><th align=\"left\" colspan=\"2\">DM-INSULIN</th></tr><tr><th align=\"left\">Alirocumab (n&#8201;=&#8201;95)</th><th align=\"left\">UC (n&#8201;=&#8201;47)</th><th align=\"left\">Alirocumab (n&#8201;=&#8201;118)</th><th align=\"left\">Placebo (n&#8201;=&#8201;57)</th></tr></thead><tbody><tr><td align=\"left\" colspan=\"5\">TEAEs occurring in &#8805;&#8201;2% of individuals by preferred term, n (%)</td></tr><tr><td align=\"left\">&#160;Urinary tract infection</td><td align=\"left\">5 (5.3)</td><td align=\"char\" char=\"(\">2 (4.3)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">4 (7.0)</td></tr><tr><td align=\"left\">&#160;Diarrhea</td><td align=\"left\">5 (5.3)</td><td align=\"char\" char=\"(\">3 (6.4)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">3 (5.3)</td></tr><tr><td align=\"left\">&#160;Hypertension</td><td align=\"left\">3 (3.2)</td><td align=\"char\" char=\"(\">1 (2.1)</td><td align=\"char\" char=\"(\">5 (4.2)</td><td align=\"left\">3 (5.3)</td></tr><tr><td align=\"left\">&#160;Influenza</td><td align=\"left\">3 (3.2)</td><td align=\"char\" char=\"(\">3 (6.4)</td><td align=\"char\" char=\"(\">4 (3.4)</td><td align=\"left\">1 (1.8)</td></tr><tr><td align=\"left\">&#160;Musculoskeletal pain</td><td align=\"left\">4 (4.2)</td><td align=\"char\" char=\"(\">1 (2.1)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">2 (3.5)</td></tr><tr><td align=\"left\">&#160;Back pain</td><td align=\"left\">2 (2.1)</td><td align=\"char\" char=\"(\">2 (4.3)</td><td align=\"char\" char=\"(\">4 (3.4)</td><td align=\"left\">0</td></tr><tr><td align=\"left\">&#160;Dizziness</td><td align=\"left\">3 (3.2)</td><td align=\"char\" char=\"(\">1 (2.1)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">2 (3.5)</td></tr><tr><td align=\"left\">&#160;Fatigue</td><td align=\"left\">2 (2.1)</td><td align=\"char\" char=\"(\">2 (4.3)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">1 (1.8)</td></tr><tr><td align=\"left\">&#160;Cataract</td><td align=\"left\">1 (1.1)</td><td align=\"char\" char=\"(\">1 (2.1)</td><td align=\"char\" char=\"(\">4 (3.4)</td><td align=\"left\">0</td></tr><tr><td align=\"left\">&#160;Myalgia</td><td align=\"left\">2 (2.1)</td><td align=\"char\" char=\"(\">1 (2.1)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">0</td></tr><tr><td align=\"left\">&#160;Nausea</td><td align=\"left\">2 (2.1)</td><td align=\"char\" char=\"(\">1 (2.1)</td><td align=\"char\" char=\"(\">2 (1.7)</td><td align=\"left\">2 (3.5)</td></tr><tr><td align=\"left\">&#160;Pain in extremity</td><td align=\"left\">2 (2.1)</td><td align=\"char\" char=\"(\">2 (4.3)</td><td align=\"char\" char=\"(\">2 (1.7)</td><td align=\"left\">1 (1.8)</td></tr><tr><td align=\"left\">&#160;Bronchitis</td><td align=\"left\">0</td><td align=\"char\" char=\"(\">2 (4.3)</td><td align=\"char\" char=\"(\">3 (2.5)</td><td align=\"left\">1 (1.8)</td></tr></tbody></table>",
+            []
+        ]
+    ]
+}

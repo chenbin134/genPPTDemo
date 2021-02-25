@@ -1,0 +1,1042 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Cardiovasc Diabetol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Cardiovasc Diabetol</journal-id>
+      <journal-title-group>
+        <journal-title>Cardiovascular Diabetology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1475-2840</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31706300</article-id>
+      <article-id pub-id-type="pmc">6842201</article-id>
+      <article-id pub-id-type="publisher-id">951</article-id>
+      <article-id pub-id-type="doi">10.1186/s12933-019-0951-9</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Investigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Alirocumab therapy in individuals with type 2 diabetes mellitus and atherosclerotic cardiovascular disease: analysis of the ODYSSEY DM-DYSLIPIDEMIA and DM-INSULIN studies</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Ray</surname>
+            <given-names>Kausik K.</given-names>
+          </name>
+          <address>
+            <phone>44 (0)20 7 594 0716</phone>
+            <email>k.ray@imperial.ac.uk</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Del Prato</surname>
+            <given-names>Stefano</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>M&#xFC;ller-Wieland</surname>
+            <given-names>Dirk</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cariou</surname>
+            <given-names>Bertrand</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Colhoun</surname>
+            <given-names>Helen M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tinahones</surname>
+            <given-names>Francisco J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Domenger</surname>
+            <given-names>Catherine</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff7">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Letierce</surname>
+            <given-names>Alexia</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff8">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mandel</surname>
+            <given-names>Jonas</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff9">9</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Samuel</surname>
+            <given-names>Rita</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff10">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bujas-Bobanovic</surname>
+            <given-names>Maja</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff11">11</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leiter</surname>
+            <given-names>Lawrence A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff12">12</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2113 8111</institution-id><institution-id institution-id-type="GRID">grid.7445.2</institution-id><institution>Imperial Centre for Cardiovascular Disease Prevention, Department of Primary Care and Public Health, </institution><institution>Imperial College, </institution></institution-wrap>Kensington, London, SW7 2AZ UK </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1757 3729</institution-id><institution-id institution-id-type="GRID">grid.5395.a</institution-id><institution>Department of Clinical and Experimental Medicine, </institution><institution>University of Pisa, </institution></institution-wrap>Pisa, Italy </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 8653 1507</institution-id><institution-id institution-id-type="GRID">grid.412301.5</institution-id><institution>Department of Internal Medicine I, </institution><institution>University Hospital Aachen, </institution></institution-wrap>Aachen, Germany </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0472 0371</institution-id><institution-id institution-id-type="GRID">grid.277151.7</institution-id><institution>l&#x2019;institut du thorax, Department of Endocrinology, </institution><institution>CHU Nantes, INSERM, </institution></institution-wrap>1413 Nantes, France </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 7988</institution-id><institution-id institution-id-type="GRID">grid.4305.2</institution-id><institution>University of Edinburgh, </institution></institution-wrap>Edinburgh, Scotland, UK </aff>
+        <aff id="Aff6"><label>6</label>Department of Clinical Endocrinology and Nutrition (IBIMA), Hospital Virgen de la Victoria, University of M&#xE1;laga, CIBER Fisiopatolog&#xED;a de la Obesidad y Nutrici&#xF3;n (CIBERobn), Instituto de Salud Carlos III, M&#xE1;laga, Spain </aff>
+        <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="GRID">grid.417924.d</institution-id><institution>Sanofi, </institution></institution-wrap>Gentilly, France </aff>
+        <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="GRID">grid.417924.d</institution-id><institution>Biostatistics and Programming Department, </institution><institution>Sanofi, </institution></institution-wrap>Chilly-Mazarin, France </aff>
+        <aff id="Aff9"><label>9</label>IviData Stats, Levallois-Perret, France </aff>
+        <aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0472 2713</institution-id><institution-id institution-id-type="GRID">grid.418961.3</institution-id><institution>Regeneron Pharmaceuticals, Inc., </institution></institution-wrap>Tarrytown, New York, NY USA </aff>
+        <aff id="Aff11"><label>11</label><institution-wrap><institution-id institution-id-type="GRID">grid.417924.d</institution-id><institution>Sanofi, </institution></institution-wrap>Paris, France </aff>
+        <aff id="Aff12"><label>12</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2157 2938</institution-id><institution-id institution-id-type="GRID">grid.17063.33</institution-id><institution>Li Ka Shing Knowledge Institute, St. Michael&#x2019;s Hospital, </institution><institution>University of Toronto, </institution></institution-wrap>Toronto, ON Canada </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>9</day>
+        <month>11</month>
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>9</day>
+        <month>11</month>
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <volume>18</volume>
+      <elocation-id>149</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>7</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>10</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2019</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Individuals with diabetes often have high levels of atherogenic lipoproteins and cholesterol reflected by elevated low-density lipoprotein cholesterol (LDL-C), non-high-density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (ApoB), and LDL particle number (LDL-PN). The presence of atherosclerotic cardiovascular disease (ASCVD) increases the risk of future cardiovascular events. We evaluated the efficacy and safety of the proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor, alirocumab, among individuals with type 2 diabetes (T2DM), high LDL-C or non-HDL-C, and established ASCVD receiving maximally tolerated statin in ODYSSEY DM-DYSLIPIDEMIA (NCT02642159) and DM-INSULIN (NCT02585778).</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">In DM-DYSLIPIDEMIA, individuals with T2DM and mixed dyslipidemia (non-HDL-C&#x2009;&#x2265;&#x2009;100&#xA0;mg/dL; n&#x2009;=&#x2009;413) were randomized to open-label alirocumab 75&#xA0;mg every 2&#xA0;weeks (Q2W) or usual care (UC) for 24&#xA0;weeks, with UC options selected before stratified randomization. In DM-INSULIN, insulin-treated individuals with T2DM (LDL-C&#x2009;&#x2265;&#x2009;70&#xA0;mg/dL; n&#x2009;=&#x2009;441) were randomized in a double-blind fashion to alirocumab 75&#xA0;mg Q2W or placebo for 24&#xA0;weeks. Study participants also had a glycated hemoglobin&#x2009;&lt;&#x2009;9% (DM-DYSLIPIDEMIA) or&#x2009;&lt;&#x2009;10% (DM-INSULIN). Alirocumab dose was increased to 150&#xA0;mg Q2W at week 12 if week 8 LDL-C was&#x2009;&#x2265;&#x2009;70&#xA0;mg/dL (DM-INSULIN) or non-HDL-C was&#x2009;&#x2265;&#x2009;100&#xA0;mg/dL (DM-DYSLIPIDEMIA). Lipid reductions and safety were assessed in patients with ASCVD from these studies.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">This analysis included 142 DM-DYSLIPIDEMIA and 177 DM-INSULIN participants with ASCVD, including 95.1% and 86.4% with coronary heart disease, and 32.4% and 49.7% with microvascular diabetes complications, respectively. At week 24, alirocumab significantly reduced LDL-C, non-HDL-C, ApoB, and LDL-PN from baseline versus control. This translated into a greater proportion of individuals achieving non-HDL-C&#x2009;&lt;&#x2009;100&#xA0;mg/dL (64.6% alirocumab/23.8% UC [DM-DYSLIPIDEMIA]; 65.4% alirocumab/14.9% placebo [DM-INSULIN]) and ApoB&#x2009;&lt;&#x2009;80&#xA0;mg/dL (75.1% alirocumab/35.4% UC and 76.8% alirocumab/24.8% placebo, respectively) versus control at week 24 (all <italic>P&#x2009;</italic>&lt;&#x2009;0.0001). In pooling these studies, 66.4% (alirocumab) and 67.0% (control) of individuals reported treatment-emergent adverse events. The adverse event pattern was similar with alirocumab versus controls.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p id="Par4">Among individuals with T2DM and ASCVD who had high non-HDL-C/LDL-C levels despite maximally tolerated statin, alirocumab significantly reduced atherogenic cholesterol and LDL-PN versus control. Alirocumab was generally well tolerated.</p>
+          <p id="Par5"><italic>Trial registration</italic> Clinicaltrials.gov. NCT02642159. Registered 30 December 2015 and Clinicaltrials.gov. NCT02585778. Registered 23 October 2015</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Alirocumab</kwd>
+        <kwd>Atherosclerotic cardiovascular disease</kwd>
+        <kwd>Type 2 diabetes mellitus</kwd>
+        <kwd>Low-density lipoprotein cholesterol</kwd>
+        <kwd>Dyslipidemia</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100004339</institution-id>
+              <institution>Sanofi</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100009857</institution-id>
+              <institution>Regeneron Pharmaceuticals</institution>
+            </institution-wrap>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2019</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par27">The leading cause of morbidity and mortality for individuals with diabetes is atherosclerotic cardiovascular disease (ASCVD). ASCVD may present as acute thrombotic manifestations of vascular disease, such as acute coronary syndrome (ACS), myocardial infarction (MI), unstable angina, stroke, and transient ischemic attack, or as occlusive manifestations of atherosclerotic vascular disease, such as stable angina and claudication [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. Atherogenic dyslipidemia is often observed in individuals with type 2 diabetes mellitus (T2DM), contributing to a higher risk of ASCVD [<xref ref-type="bibr" rid="CR3">3</xref>]. This atherogenic dyslipidemia consists of an excess of atherogenic apolipoprotein B (ApoB)-containing lipoproteins, which is reflected by higher circulating ApoB, non-high-density lipoprotein cholesterol (non-HDL-C), and low-density lipoprotein particle number (LDL-PN) [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR4">4</xref>]. In addition, triglycerides are elevated and levels of HDL-C are low [<xref ref-type="bibr" rid="CR3">3</xref>]. Therefore, lowering atherogenic cholesterol cargo is a major aim in many guidelines.</p>
+      <p id="Par28">The 2019 American Diabetes Association (ADA) and the 2019 European Society of Cardiology (ESC)/European Atherosclerosis Society (EAS) guidelines recommend additional low-density lipoprotein-lowering therapy, such as ezetimibe or a proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor, for patients who have diabetes and ASCVD if low-density lipoprotein cholesterol (LDL-C) goals are not met on the maximally tolerated statin dose [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]. In the 2018 US cholesterol guidelines from the American College of Cardiology, American Heart Association, 2019 ESC/EAS guidelines, and others, individuals with clinical ASCVD are categorized as being at very high risk for cardiovascular (CV) events if they have additional risk factors, including diabetes and elevated LDL-C. Very high risk individuals who are on maximally tolerated LDL-C-lowering therapy with an LDL-C level of&#x2009;&#x2265;&#x2009;70&#xA0;mg/dL (&#x2265;&#x2009;1.8&#xA0;mmol/L), or have a non-HDL-C level of&#x2009;&#x2265;&#x2009;100&#xA0;mg/dL (&#x2265;&#x2009;2.6&#xA0;mmol/L), may add a PCSK9 inhibitor following a discussion with their clinician about the overall benefit, safety, and cost [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]. The ODYSSEY OUTCOMES trial investigated the role of the PCSK9 inhibitor, alirocumab, in improving CV outcomes after ACS in patients on high-intensity statin therapy [<xref ref-type="bibr" rid="CR7">7</xref>]. Results demonstrated that the risk of recurrent ischemic CV events was lower among those who were treated with alirocumab than placebo in this patient population. Alirocumab has further been assessed in two dedicated randomized studies in individuals with diabetes and hypercholesterolemia on maximally tolerated statin and either established ASCVD or additional CV risk factors: ODYSSEY DM-DYSLIPIDEMIA and DM-INSULIN [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. In this analysis, we evaluated the efficacy and safety of alirocumab versus control among individuals with T2DM, established ASCVD, and elevated non-HDL-C or LDL-C despite receiving maximally tolerated statin in the DM-DYSLIPIDEMIA and DM-INSULIN studies.</p>
+    </sec>
+    <sec id="Sec2" sec-type="materials|methods">
+      <title>Methods</title>
+      <p id="Par29">This analysis included individuals with established ASCVD receiving maximally tolerated statin who were enrolled in the DM-DYSLIPIDEMIA and DM-INSULIN studies. ASCVD was defined as coronary heart disease (CHD; acute and silent MI, and unstable angina), ischemic stroke, or peripheral artery disease (PAD).</p>
+      <p id="Par30">The DM-DYSLIPIDEMIA (NCT02642159) is a Phase IIIb/IV randomized, open-label, parallel group, multicenter, multinational clinical trial [<xref ref-type="bibr" rid="CR9">9</xref>]. Individuals (n&#x2009;=&#x2009;413) aged&#x2009;&#x2265;&#x2009;18&#xA0;years with T2DM and mixed dyslipidemia whose non-HDL-C level was not adequately controlled (&#x2265;&#x2009;100&#xA0;mg/dL [&gt;&#x2009;2.59&#xA0;mmol/L]) despite stable maximally tolerated statin dose for&#x2009;&#x2265;&#x2009;4&#xA0;weeks prior to screening visit, without other lipid-lowering therapies (LLTs), and who had either a documented history of ASCVD and/or at least one additional CV risk factor were included. Mixed dyslipidemia was defined as non-HDL-C&#x2009;&#x2265;&#x2009;100&#xA0;mg/dL (&#x2265;&#x2009;2.59&#xA0;mmol/L) and triglycerides&#x2009;&#x2265;&#x2009;150&#xA0;mg/dL (&#x2265;&#x2009;1.70&#xA0;mmol/L) and&#x2009;&lt;&#x2009;500&#xA0;mg/dL (&lt;&#x2009;5.65&#xA0;mmol/L). Study participants were also required to have a glycated hemoglobin (HbA1c) level of&#x2009;&lt;&#x2009;9% (74.9&#xA0;mmol/mol). Eligible individuals were randomized to open-label alirocumab 75&#xA0;mg (with blinded dose increase to 150&#xA0;mg at week 12 if week 8 non-HDL-C was&#x2009;&#x2265;&#x2009;100&#xA0;mg/dL [&#x2265;&#x2009;2.59&#xA0;mmol/L]) or usual care (UC) every 2&#xA0;weeks for 24&#xA0;weeks, with UC options selected before stratified randomization based on the investigator&#x2019;s preference for each participant. The following five UC options were included in the study: continued use of maximally tolerated statin therapy with no additional LLT, fenofibrate, ezetimibe, omega-3 fatty acid, and nicotinic acid, reflecting variability in regional practice and therapeutic options available at the time the study was conducted. Safety was assessed through adverse events, laboratory parameters and vital signs. Treatment-emergent adverse events were defined as any event that developed, worsened or became serious during the period from first to last open-label dose of alirocumab plus 70&#xA0;days (if randomized to alirocumab) or, if randomized to UC, 70&#xA0;days after the last UC treatment or study day 225 (whichever came first).</p>
+      <p id="Par31">In the DM-INSULIN (NCT02585778) phase IIIb, randomized, double-blind, placebo controlled, parallel group, multicenter trial, insulin-treated individuals aged&#x2009;&#x2265;&#x2009;18&#xA0;years with T2DM (n&#x2009;=&#x2009;441) or type 1 diabetes mellitus (T1DM; n&#x2009;=&#x2009;76) diagnosed&#x2009;&#x2265;&#x2009;1&#xA0;year prior to screening, and who had either a documented history of ASCVD and/or at least one additional CV risk factor were randomized in a 2:1 double-blind fashion to alirocumab or placebo for 24&#xA0;weeks [<xref ref-type="bibr" rid="CR4">4</xref>]. Study participants were also required to have a HbA1c level&#x2009;&lt;&#x2009;10% (86&#xA0;mmol/mol). Alirocumab-treated individuals received 75&#xA0;mg every 2&#xA0;weeks (Q2W), with blinded dose increase to 150&#xA0;mg Q2W at week 12 if week 8 LDL-C was&#x2009;&#x2265;&#x2009;70&#xA0;mg/dL (&#x2265;&#x2009;1.81&#xA0;mmol/L). Statins and other LLTs remained stable throughout the duration of the study. Primary safety endpoints were assessed up to week 32 through treatment-emergent adverse events (TEAE) reports, laboratory data, product complaints, and vital signs. Participants with T1DM were not included in the current analysis due to the low number of individuals with established ASCVD in this group (alirocumab: n&#x2009;=&#x2009;11; placebo: n&#x2009;=&#x2009;5).</p>
+      <p id="Par32">Due to the substantial differences in the patient populations from DM-DYSLIPIDEMIA and DM-INSULIN, as well as the methodological differences between the two studies, efficacy was analyzed separately. The efficacy analysis included week 24 percentage reduction from baseline in non-HDL-C, calculated LDL-C, ApoB, triglyceride-rich lipoproteins (TGRL), and LDL-PN; the percentage of individuals achieving non-HDL-C&#x2009;&lt;&#x2009;100&#xA0;mg/dL (&lt;&#x2009;2.59&#xA0;mmol/L), LDL-C&#x2009;&lt;&#x2009;70&#xA0;mg/dL (&lt;&#x2009;1.81&#xA0;mmol/L), and ApoB&#x2009;&lt;&#x2009;80&#xA0;mg/dL at week 24. TGRL was defined as non-HDL-C minus measured LDL-C if measured LDL-C not missing; non-HDL-C minus calculated LDL-C if measured LDL-C missing and calculated LDL-C not missing, using fasting samples first, or if fasting sample missing using non-fasting measurements. Efficacy data were analyzed with an intention-to-treat approach, including all randomized individuals with a non-HDL-C (DM-DYSLIPIDEMIA) or LDL-C (DM-INSULIN) value at baseline and at least one value post-baseline up to week 24. Safety data were pooled due to the small sample size, however separate adverse event outcomes are also reported.</p>
+      <sec id="Sec3">
+        <title>Statistical analysis</title>
+        <p id="Par33">This was a post hoc analysis with similar statistical methods to those used in the primary DM-DYSLIPIDEMIA and DM-INSULIN studies [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Percent changes from baseline in non-HDL-C, HDL-C, LDL-C, Apo-B and LDL-PN at week 24 were derived and compared between treatment groups using a mixed-effects model with repeated measures (MMRM), which accounts for missing data and utilizes every lipid values at week 0, 8, 12, 20 and 24. For TGRL, as normal distribution assumption wasn&#x2019;t satisfied, their percent changes from baseline were estimated by robust regressions preceded by multiple imputations to handle missing data: combined estimates for means and standard errors (SE) are obtained by combining adjusted means and SE from robust regression model analyses of the different imputed datasets, using Rubin formulae.</p>
+        <p id="Par34">The proportion of individuals achieving the different goals at week 24 were analyzed by multiple imputation followed by a logistic regression: the logistic regression included the treatment group and the UC stratum (for DM-DYSLIPIDEMIA) as main effects and the corresponding baseline value as covariate. Missing values were addressed using a multiple imputation approach and the logistic regressions were repeatedly performed in the datasets containing both observed and imputed lipid values and combined using Rubin formulae to allow for the treatment comparison. Analyses were in the intent-to-treat populations and for DM-DYSLIPIDEMIA, analyses are adjusted on the UC stratum. Descriptive analyses were performed for baseline, other efficacy, and safety analyses.</p>
+      </sec>
+    </sec>
+    <sec id="Sec4" sec-type="results">
+      <title>Results</title>
+      <p id="Par35">This analysis included 142 individuals from the DM-DYSLIPIDEMIA trial and 177 individuals from the DM-INSULIN trial, all of whom had established ASCVD and T2DM (Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>). Overall, 93.7% of pooled individuals from DM-DYSLIPIDEMIA and 89.3% of individuals from DM-INSULIN had a history of hypertension, and 18.3% and 28.2% had chronic kidney disease on top of ASCVD, respectively. In total, 13.4% of pooled individuals from DM-DYSLIPIDEMIA and 20.3% of individuals from DM-INSULIN demonstrated a history of ischemic stroke; 7.0% and 10.7% had PAD, respectively; 95.1% and 86.4% had CHD, respectively; and 32.4% and 49.7% had microvascular diabetes complications, respectively.<table-wrap id="Tab1"><label>Table&#xA0;1</label><caption><p>Baseline characteristics (randomized population)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"/><th align="left" colspan="2">DM-DYSLIPIDEMIA</th><th align="left" colspan="2">DM-INSULIN</th></tr><tr><th align="left">Alirocumab (n&#x2009;=&#x2009;95)</th><th align="left">UC (n&#x2009;=&#x2009;47)</th><th align="left">Alirocumab (n&#x2009;=&#x2009;119)</th><th align="left">Placebo (n&#x2009;=&#x2009;58)</th></tr></thead><tbody><tr><td align="left">Age, years, mean (SD)</td><td align="left">64.9 (9.1)</td><td align="left">65.4 (8.1)</td><td align="left">66.2 (8.7)</td><td align="left">64.9 (8.9)</td></tr><tr><td align="left">Gender, male, n (%)</td><td align="left">65 (68.4)</td><td align="left">31 (66.0)</td><td align="left">79 (66.4)</td><td align="left">32 (55.2)</td></tr><tr><td align="left">BMI, kg/m<sup>2</sup>, mean (SD)</td><td align="left">33.0 (5.4)</td><td align="left">32.7 (4.9)</td><td align="left">32.6 (4.5)</td><td align="left">33.4 (5.8)</td></tr><tr><td align="left">CHD, n (%)</td><td align="left">90 (94.7)</td><td align="left">45 (95.7)</td><td align="left">102 (85.7)</td><td align="left">51 (87.9)</td></tr><tr><td align="left">&#xA0;Acute MI</td><td align="left">43 (45.3)</td><td align="left">20 (42.6)</td><td align="left">59 (49.6)</td><td align="left">18 (31.0)</td></tr><tr><td align="left">&#xA0;Silent MI</td><td align="left">5 (5.3)</td><td align="left">1 (2.1)</td><td align="left">4 (3.4)</td><td align="left">4 (6.9)</td></tr><tr><td align="left">&#xA0;Unstable angina</td><td align="left">15 (15.8)</td><td align="left">9 (19.1)</td><td align="left">15 (12.6)</td><td align="left">4 (6.9)</td></tr><tr><td align="left">&#xA0;Coronary revascularization</td><td align="left">77 (81.1)</td><td align="left">35 (74.5)</td><td align="left">80 (67.2)</td><td align="left">37 (63.8)</td></tr><tr><td align="left">&#xA0;Other clinically significant CHD<sup>a</sup></td><td align="left">20 (21.1)</td><td align="left">14 (29.8)</td><td align="left">31 (26.1)</td><td align="left">15 (25.9)</td></tr><tr><td align="left">Ischemic stroke, n (%)</td><td align="left">14 (14.7)</td><td align="left">5 (10.6)</td><td align="left">27 (22.7)</td><td align="left">9 (15.5)</td></tr><tr><td align="left">PAD, n (%)</td><td align="left">6 (6.3)</td><td align="left">4 (8.5)</td><td align="left">13 (10.9)</td><td align="left">6 (10.3)</td></tr><tr><td align="left">HTN<sup>b</sup>, n (%)</td><td align="left">89 (93.7)</td><td align="left">44 (93.6)</td><td align="left">105 (88.2)</td><td align="left">53 (91.4)</td></tr><tr><td align="left">CKD<sup>c</sup>, n (%)</td><td align="left">15 (15.8)</td><td align="left">11 (23.4)</td><td align="left">37 (31.1)</td><td align="left">13 (22.4)</td></tr><tr><td align="left">Diabetes target organ damage<sup>d</sup>, n (%)</td><td align="left">31 (32.6)</td><td align="left">15 (31.9)</td><td align="left">60 (50.4)</td><td align="left">28 (48.3)</td></tr><tr><td align="left">Statin, n (%)</td><td align="left">80 (84.2)</td><td align="left">41 (87.2)</td><td align="left">92 (77.3)</td><td align="left">42 (72.4)</td></tr><tr><td align="left">&#xA0;Low intensity</td><td align="left">6 (7.5)</td><td align="left">0</td><td align="left">3 (3.3)</td><td align="left">1 (2.4)</td></tr><tr><td align="left">&#xA0;Moderate intensity</td><td align="left">21 (26.3)</td><td align="left">20 (48.8)</td><td align="left">46 (50.0)</td><td align="left">24 (57.1)</td></tr><tr><td align="left">&#xA0;High intensity</td><td align="left">53 (66.3)</td><td align="left">21 (51.2)</td><td align="left">43 (46.7)</td><td align="left">16 (38.1)</td></tr><tr><td align="left">LLT other than statin<sup>e</sup>, n (%)</td><td align="left">0</td><td align="left">2 (4.3)</td><td align="left">34 (28.6)</td><td align="left">11 (19.0)</td></tr><tr><td align="left">HbA1c, %, mean (SD)</td><td align="left">7.0 (0.8)</td><td align="left">7.2 (0.8)</td><td align="left">7.5 (0.9)</td><td align="left">7.4 (1.0)</td></tr><tr><td align="left">FPG, mg/dL [mmol/L], mean (SD)</td><td align="left">144.1 (39.3) [8.0 (2.2)]</td><td align="left">152.6 (41.7) [8.5 (2.3)]</td><td align="left">162.6 (52.5) [9.0 (2.9)]</td><td align="left">146.7 (45.2) [8.1 (2.5)]</td></tr><tr><td align="left">Insulin, n (%)</td><td align="left">40 (42.1)</td><td align="left">19 (40.4)</td><td align="left">119 (100)</td><td align="left">57 (98.3)<sup>f</sup></td></tr><tr><td align="left" colspan="5">Non-insulin GLT, n (%)</td></tr><tr><td align="left">&#xA0;Biguanides</td><td align="left">72 (75.8)</td><td align="left">34 (72.3)</td><td align="left">57 (47.9)</td><td align="left">33 (56.9)</td></tr><tr><td align="left">&#xA0;Sulfonylureas</td><td align="left">29 (30.5)</td><td align="left">18 (38.3)</td><td align="left">11 (9.2)</td><td align="left">7 (12.1)</td></tr><tr><td align="left">&#xA0;DPP-4 inhibitor</td><td align="left">12 (12.6)</td><td align="left">8 (17.0)</td><td align="left">21 (17.6)</td><td align="left">7 (12.1)</td></tr><tr><td align="left">&#xA0;GLP-1 receptor agonist</td><td align="left">16 (16.8)</td><td align="left">6 (12.8)</td><td align="left">11 (9.2)</td><td align="left">8 (13.8)</td></tr><tr><td align="left">&#xA0;SGLT2 inhibitor</td><td align="left">10 (10.5)</td><td align="left">5 (10.6)</td><td align="left">10 (8.4)</td><td align="left">11 (19.0)</td></tr><tr><td align="left" colspan="5">Lipids, mg/dL [mmol/L], mean (SD)</td></tr><tr><td align="left">&#xA0;Non-HDL-C</td><td align="left">156.5 (48.4) [4.05 (1.26)]</td><td align="left">156.8 (43.3) [4.06 (1.12)]</td><td align="left">142.8 (41.5) [3.70 (1.08)]</td><td align="left">147.0 (54.9) [3.81 (1.42)]</td></tr><tr><td align="left">&#xA0;LDL-C</td><td align="left">108.3 (46.3) [2.81 (1.20)]</td><td align="left">109.4 (44.0) [2.83 (1.14)]</td><td align="left">107.2 (35.1) [2.78 (0.91)]</td><td align="left">111.9 (46.4) [2.90 (1.20)]</td></tr><tr><td align="left">&#xA0;ApoB</td><td align="left">103.0 (26.7)</td><td align="left">104.3 (27.8)</td><td align="left">96.4 (25.1)</td><td align="left">98.7 (32.0)</td></tr><tr><td align="left">&#xA0;LDL-PN, nmol/L, mean (SD)</td><td align="left">1400.2 (489.8)</td><td align="left">1437.4 (479.4)</td><td align="left">1339.5 (408.5)</td><td align="left">1425.0 (467.9)</td></tr></tbody></table><table-wrap-foot><p><italic>Apo</italic> apolipoprotein, <italic>BMI</italic> body mass index, <italic>CHD</italic> coronary heart disease, <italic>CKD</italic> chronic kidney disease, <italic>DPP-4</italic> dipeptidyl peptidase-4, <italic>GLP-1</italic> glucagon-like peptide-1, <italic>GLT</italic> glucose-lowering treatment, <italic>FPG</italic> fasting plasma glucose, <italic>HbA1c</italic> glycated hemoglobin, <italic>HDL-C</italic> high-density lipoprotein cholesterol, <italic>HTN</italic> hypertension, <italic>LDL-C</italic> low-density lipoprotein cholesterol, <italic>LDL-PN</italic> low-density lipoprotein particle number, <italic>LLT</italic> lipid-lowering therapy, <italic>MI</italic> myocardial infarction, <italic>PAD</italic> peripheral artery disease, <italic>SD</italic> standard deviation, <italic>SGLT2</italic> sodium glucose cotransporter 2</p><p><sup>a</sup>Diagnosis by invasive/non-invasive testing</p><p><sup>b</sup>Includes patients with established HTN on anti-HTN medication</p><p><sup>c</sup>Defined as estimated glomerular filtration rate 15&#x2013;60&#xA0;mL/min/1.73&#xA0;m<sup>2</sup></p><p><sup>d</sup>Defined as microalbuminuria, macroalbuminuria, retinopathy, and/or CKD</p><p><sup>e</sup>LLT other than statins were not allowed per protocol in DM DYSLIPIDEMIA</p><p><sup>f</sup>One individual in the placebo group was not receiving insulin at the time of randomization and remained without insulin treatment for the duration of the study</p></table-wrap-foot></table-wrap>
+</p>
+      <p id="Par36">At baseline, pooled mean (standard deviation [SD]) non-HDL-C levels were 156.6 (46.6) mg/dL (4.06 [1.21] mmol/L) in DM-DYSLIPIDEMIA and 144.2 (46.2) mg/dL [3.73&#xA0;(1.20) mmol/L] in DM-INSULIN; pooled LDL-C levels were 108.7 (45.4) mg/dL [2.81&#xA0;(1.18) mmol/L] and 108.7 (39.1) mg/dL [2.82 (1.01) mmol/L], respectively; and pooled ApoB levels were 103.4 (26.9) mg/dL [2.67 (0.7) mmol/L] and 97.2 (27.6) mg/dL [2.51 (0.7) mmol/L]. The majority of individuals in both trials had diabetes for&#x2009;&gt;&#x2009;10&#xA0;years, with a mean (SD) of 13.7 (8.8)&#xA0;years in alirocumab-treated individuals and 13.0 (9.7)&#xA0;years for UC individuals in DM DYSLIPIDEMIA. In DM-INSULIN, the mean (SD) duration of diabetes was 17.4 (8.3)&#xA0;years for alirocumab and 18.3 (9.2)&#xA0;years for placebo. Mean baseline HbA1c levels were 7.0% and 7.2% for alirocumab and placebo, respectively in DM-DYSLIPIDEMIA, and 7.5% for both alirocumab and placebo in DM-INSULIN. In DM-DYSLIPIDEMIA, 41.5% of pooled individuals were treated with insulin while 99.4% of individuals from DM-INSULIN received insulin therapy. For both studies, non-insulin glucose-lowering treatment included biguanides, sulfonylureas, dipeptidyl peptidase-4 inhibitors, glucagon-like peptide-1 receptor agonists, and sodium glucose contransporter-2 inhibitors.</p>
+      <sec id="Sec5">
+        <title>Efficacy</title>
+        <p id="Par37">Alirocumab significantly reduced non-HDL-C, LDL-C, ApoB, and LDL-PN from baseline to week 24 versus controls among individuals with T2DM and ASCVD in the ODYSSEY DM-DYSLIPIDEMIA and DM-INSULIN studies (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). The percentage change from baseline to week 24 in LDL-PN was &#x2212;&#x2009;42.6% for alirocumab versus &#x2212;&#x2009;7.6% for UC in DM-DYSLIPIDEMIA and &#x2212;&#x2009;38.5% for alirocumab versus 2.3% for placebo (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). The LS mean difference (standard error [SE]) versus control was &#x2212;&#x2009;35.0% (4.4) (95% confidence interval [CI] &#x2212;&#x2009;43.7 to &#x2212;&#x2009;26.3; <italic>P&#x2009;</italic>&lt;&#x2009;0.0001) for DM-DYSLIPIDEMIA and &#x2212;&#x2009;40.8% (3.9) (95% CI &#x2212;&#x2009;48.4 to &#x2212;&#x2009;33.2; <italic>P&#x2009;</italic>&lt;&#x2009;0.0001) for DM-INSULIN. Notably, the percentage change from baseline to week 24 in TGRL was &#x2212;&#x2009;28.3% (3.6) for alirocumab versus &#x2212;&#x2009;18.7% (5.1) for UC in DM-DYSLIPIDEMIA (adjusted mean difference [SE] &#x2212;&#x2009;9.6 [6.3] 95% confidence interval [CI] &#x2212;&#x2009;21.9 to 2.7, <italic>P&#x2009;</italic>=&#x2009;0.13) and &#x2212;&#x2009;19.1% (3.5) for alirocumab versus &#x2212;&#x2009;2.1% (5.1) for placebo in DM-INSULIN (adjusted mean difference [SE] &#x2212;&#x2009;17.0 [6.2] 95% CI &#x2212;&#x2009;29.1 to &#x2212;&#x2009;4.9, <italic>P&#x2009;</italic>=&#x2009;0.01). At week 24, a significantly greater proportion of individuals achieved non-HDL-C&#x2009;&lt;&#x2009;100&#xA0;mg/dL (&lt;&#x2009;2.59&#xA0;mmol/L), LDL-C&#x2009;&lt;&#x2009;70&#xA0;mg/dL (&lt;&#x2009;1.81&#xA0;mmol/L), and ApoB&#x2009;&lt;&#x2009;80&#xA0;mg/dL versus control (all <italic>P&#x2009;</italic>&lt;&#x2009;0.0001; Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>).<fig id="Fig1"><label>Fig.&#xA0;1</label><caption><p>Percentage change from baseline to week 24 in non-HDL-C, LDL-C, ApoB, LDL-PN (ITT). <italic>Apo</italic> apolipoprotein, <italic>HDL-C</italic> high-density lipoprotein cholesterol, <italic>ITT</italic> intent-to-treat, <italic>LDL-C</italic> low-density lipoprotein cholesterol, <italic>LDL-PN</italic> low-density lipoprotein particle number, <italic>LS</italic> least-squares, <italic>SE</italic> standard error, <italic>UC</italic> usual care</p></caption><graphic xlink:href="12933_2019_951_Fig1_HTML" id="MO1"/></fig>
+<fig id="Fig2"><label>Fig.&#xA0;2</label><caption><p>Percentage of individuals achieving non-HDL-C, LDL-C, and ApoB targets at week 24 (ITT). Non-HDL-C: 100&#xA0;mg/dL&#x2009;=&#x2009;2.59&#xA0;mmol/L; LDL-C: 70&#xA0;mg/dL&#x2009;=&#x2009;1.81&#xA0;mmol/L. <italic>Apo</italic> apolipoprotein, <italic>HDL-C</italic> high-density lipoprotein cholesterol, <italic>ITT</italic> intent-to-treat, <italic>LDL-C</italic> low-density lipoprotein cholesterol, <italic>UC</italic> usual care</p></caption><graphic xlink:href="12933_2019_951_Fig2_HTML" id="MO2"/></fig>
+</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Safety</title>
+        <p id="Par38">In total, 66.7% (alirocumab) and 67.3% (control) of individuals reported TEAEs (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>). Treatment emergent serious adverse events (SAEs) were reported in 9.5% (alirocumab) versus 8.8% (UC) of individuals in DM-DYSLIPIDEMIA and 9.0% (alirocumab) versus 9.4% (placebo) of individuals in DM-INSULIN. The adverse event pattern was similar in both pooled alirocumab and control groups. Results for adverse events for the two treatment arms in each study may be seen in Table&#xA0;<xref rid="Tab3" ref-type="table">3</xref>.<table-wrap id="Tab2"><label>Table&#xA0;2</label><caption><p>Safety summary (pool of DM-INSULIN and DM-DYSLIPIDEMIA; safety population)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">n (%)</th><th align="left">Alirocumab (n&#x2009;=&#x2009;213)</th><th align="left">Control (n&#x2009;=&#x2009;104)</th></tr></thead><tbody><tr><td align="left">TEAEs</td><td char="(" align="char">142 (66.7)</td><td char="(" align="char">70 (67.3)</td></tr><tr><td align="left">Treatment-emergent SAEs</td><td char="(" align="char">28 (13.1)</td><td char="(" align="char">10 (9.6)</td></tr><tr><td align="left">TEAEs leading to death</td><td char="(" align="char">1 (0.5)</td><td char="(" align="char">1 (1.0)</td></tr><tr><td align="left" colspan="3">TEAEs occurring in &#x2265;&#x2009;2% of individuals by preferred term</td></tr><tr><td align="left">&#xA0;Urinary tract infection</td><td char="(" align="char">8 (3.8)</td><td char="(" align="char">6 (5.8)</td></tr><tr><td align="left">&#xA0;Diarrhea</td><td char="(" align="char">8 (3.8)</td><td char="(" align="char">6 (5.8)</td></tr><tr><td align="left">&#xA0;Hypertension</td><td char="(" align="char">8 (3.8)</td><td char="(" align="char">4 (3.8)</td></tr><tr><td align="left">&#xA0;Influenza</td><td char="(" align="char">7 (3.3)</td><td char="(" align="char">4 (3.8)</td></tr><tr><td align="left">&#xA0;Headache</td><td char="(" align="char">7 (3.3)</td><td char="(" align="char">1 (1.0)</td></tr><tr><td align="left">&#xA0;Musculoskeletal pain</td><td char="(" align="char">7 (3.3)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Nasopharyngitis</td><td char="(" align="char">6 (2.8)</td><td char="(" align="char">5 (4.8)</td></tr><tr><td align="left">&#xA0;Back pain</td><td char="(" align="char">6 (2.8)</td><td char="(" align="char">2 (1.9)</td></tr><tr><td align="left">&#xA0;Dizziness</td><td char="(" align="char">6 (2.8)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Fatigue</td><td char="(" align="char">5 (2.3)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Cataract</td><td char="(" align="char">5 (2.3)</td><td char="(" align="char">1 (1.0)</td></tr><tr><td align="left">&#xA0;Myalgia</td><td char="(" align="char">5 (2.3)</td><td char="(" align="char">1 (1.0)</td></tr><tr><td align="left">&#xA0;Nausea</td><td char="(" align="char">4 (1.9)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Pain in extremity</td><td char="(" align="char">4 (1.9)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Arthralgia</td><td char="(" align="char">3 (1.4)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Bronchitis</td><td char="(" align="char">3 (1.4)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Hypotension</td><td char="(" align="char">2 (0.9)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Cough</td><td char="(" align="char">1 (0.5)</td><td char="(" align="char">3 (2.9)</td></tr><tr><td align="left">&#xA0;Hyperglycemia</td><td char="(" align="char">0 (0.0)</td><td char="(" align="char">3 (2.9)</td></tr></tbody></table><table-wrap-foot><p><italic>SAE</italic> serious adverse event, <italic>TEAE</italic> treatment-emergent adverse event</p></table-wrap-foot></table-wrap>
+<table-wrap id="Tab3"><label>Table&#xA0;3</label><caption><p>Safety summary (randomized population)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"/><th align="left" colspan="2">DM-DYSLIPIDEMIA</th><th align="left" colspan="2">DM-INSULIN</th></tr><tr><th align="left">Alirocumab (n&#x2009;=&#x2009;95)</th><th align="left">UC (n&#x2009;=&#x2009;47)</th><th align="left">Alirocumab (n&#x2009;=&#x2009;118)</th><th align="left">Placebo (n&#x2009;=&#x2009;57)</th></tr></thead><tbody><tr><td align="left" colspan="5">TEAEs occurring in &#x2265;&#x2009;2% of individuals by preferred term, n (%)</td></tr><tr><td align="left">&#xA0;Urinary tract infection</td><td align="left">5 (5.3)</td><td char="(" align="char">2 (4.3)</td><td char="(" align="char">3 (2.5)</td><td align="left">4 (7.0)</td></tr><tr><td align="left">&#xA0;Diarrhea</td><td align="left">5 (5.3)</td><td char="(" align="char">3 (6.4)</td><td char="(" align="char">3 (2.5)</td><td align="left">3 (5.3)</td></tr><tr><td align="left">&#xA0;Hypertension</td><td align="left">3 (3.2)</td><td char="(" align="char">1 (2.1)</td><td char="(" align="char">5 (4.2)</td><td align="left">3 (5.3)</td></tr><tr><td align="left">&#xA0;Influenza</td><td align="left">3 (3.2)</td><td char="(" align="char">3 (6.4)</td><td char="(" align="char">4 (3.4)</td><td align="left">1 (1.8)</td></tr><tr><td align="left">&#xA0;Musculoskeletal pain</td><td align="left">4 (4.2)</td><td char="(" align="char">1 (2.1)</td><td char="(" align="char">3 (2.5)</td><td align="left">2 (3.5)</td></tr><tr><td align="left">&#xA0;Back pain</td><td align="left">2 (2.1)</td><td char="(" align="char">2 (4.3)</td><td char="(" align="char">4 (3.4)</td><td align="left">0</td></tr><tr><td align="left">&#xA0;Dizziness</td><td align="left">3 (3.2)</td><td char="(" align="char">1 (2.1)</td><td char="(" align="char">3 (2.5)</td><td align="left">2 (3.5)</td></tr><tr><td align="left">&#xA0;Fatigue</td><td align="left">2 (2.1)</td><td char="(" align="char">2 (4.3)</td><td char="(" align="char">3 (2.5)</td><td align="left">1 (1.8)</td></tr><tr><td align="left">&#xA0;Cataract</td><td align="left">1 (1.1)</td><td char="(" align="char">1 (2.1)</td><td char="(" align="char">4 (3.4)</td><td align="left">0</td></tr><tr><td align="left">&#xA0;Myalgia</td><td align="left">2 (2.1)</td><td char="(" align="char">1 (2.1)</td><td char="(" align="char">3 (2.5)</td><td align="left">0</td></tr><tr><td align="left">&#xA0;Nausea</td><td align="left">2 (2.1)</td><td char="(" align="char">1 (2.1)</td><td char="(" align="char">2 (1.7)</td><td align="left">2 (3.5)</td></tr><tr><td align="left">&#xA0;Pain in extremity</td><td align="left">2 (2.1)</td><td char="(" align="char">2 (4.3)</td><td char="(" align="char">2 (1.7)</td><td align="left">1 (1.8)</td></tr><tr><td align="left">&#xA0;Bronchitis</td><td align="left">0</td><td char="(" align="char">2 (4.3)</td><td char="(" align="char">3 (2.5)</td><td align="left">1 (1.8)</td></tr></tbody></table></table-wrap>
+</p>
+        <p id="Par39">Mean (SD) levels of HbA1c were similar in each treatment group at baseline (alirocumab: 7.3 [0.9]%; control: 7.3 [0.9]%) and week 24 (alirocumab: 7.6 [1.2]%; control: 7.5 [1.2]%; safety analysis). Fasting plasma glucose levels were also similar regardless of treatment allocation at baseline (alirocumab: 154.2 [47.9]&#xA0;mg/dL, 8.6 [2.7] mmol/L; control: 149.5 [43.7] mg/dL, 8.3 [2.4] mmol/L) and at week 24 (alirocumab: 164.7 [54.9] mg/dL, 9.1 [3.0] mmol/L; control: 159.4 [48.4]&#xA0;mg/dL, 8.9 [2.7] mmol/L; safety analysis).</p>
+      </sec>
+    </sec>
+    <sec id="Sec7" sec-type="discussion">
+      <title>Discussion</title>
+      <sec id="Sec8">
+        <title>Efficacy and safety</title>
+        <p id="Par40">The participants included in this analysis from the DM-DYSLIPIDEMIA and DM INSULIN trials had both prior ASCVD and T2DM, and represent a population with a very high risk of CV events for which a target LDL-C&#x2009;&lt;&#x2009;70&#xA0;mg/dL and non-HDL-C&#x2009;&lt;&#x2009;100&#xA0;mg/dL were generally recommended at the time of study implementation [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>]. In our study population, statins at maximally tolerated doses were largely insufficient to achieve guideline-recommended lipid goals and thus it represents a group with high residual risk and an unmet therapeutic need. In the present analysis, significant reductions in LDL-C, non-HDL-C, and Apo B were observed with alirocumab versus controls, which is consistent with the results in the overall trial populations from the primary DM-DYSLIPIDEMIA and DM-INSULIN studies. Alirocumab treatment resulted in significant LDL-C reductions from baseline to week 24 compared with either UC or placebo (&#x2212;&#x2009;43.0% and &#x2212;&#x2009;49.0%, respectively; <italic>P&#x2009;</italic>&lt;&#x2009;0.0001) on background maximally tolerated statin therapy [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Furthermore, alirocumab also significantly reduced non-HDL-C and ApoB at week 24 versus control, which better predict total atherogenic burden in this population, and results were consistent with the results of the primary studies [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Finally, levels of low-density lipoprotein particle (LDL-P), which may more closely align with CV risk than LDL-C in diabetes, were also significantly reduced with alirocumab therapy.</p>
+        <p id="Par41">This post hoc analysis confirmed similar adverse event patterns in alirocumab-treated individuals and controls already reported in other studies. In both studies, alirocumab was generally well tolerated, with comparable rates of TEAEs between alirocumab and UC or placebo. The overall incidence of injection-site reactions for both primary studies was low, with no greater incidence seen in alirocumab-treated individuals [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. However, in the overall alirocumab trial population, including both individuals with and without diabetes, injection-site reactions were found at a higher frequency with alirocumab compared with controls [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. In a real-world analysis of three datasets from a hospital registry (n&#x2009;=&#x2009;164), and two pharmacovigilance databases, Lareb (n&#x2009;=&#x2009;149) and VigiLyze (n&#x2009;=&#x2009;15,554), PCSK9 inhibitors were found to be well tolerated with an overall safety profile comparable to currently available randomized clinical trials [<xref ref-type="bibr" rid="CR13">13</xref>]. The most common adverse events included influenza-like illness, nasopharyngitis, myalgia, and injection-site reactions, all of which resolved over time. Furthermore, while the benefit of PCSK9 inhibitors is primarily ascribed to their LDL-C reducing activity, data suggest that they may also influence platelet function and blood coagulation [<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+      </sec>
+      <sec id="Sec9">
+        <title>CV events and outcomes</title>
+        <p id="Par42">Long-term CV outcome studies have shown that PCSK9 inhibitors reduce CV event rates similarly in individuals with and without T2DM and prior CV disease or recent acute coronary syndrome [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>]. However, absolute risk is higher among those with diabetes and established ASCVD and therefore these patients are expected to derive greater absolute benefits from further LLT. In the FOURIER trial, patients with diabetes and a baseline LDL-C level of around 90&#xA0;mg/dL had a 5-point major adverse CV event rate of 17.1%, which decreased to 14.4% by reducing LDL-C to around 30&#xA0;mg/dL [<xref ref-type="bibr" rid="CR17">17</xref>]. The latter event rate is only marginally higher than the 13.0% event rate among patients without diabetes, stable ASCVD, and LDL-C of around 90&#xA0;mg/dL, highlighting the important role more intensive LDL-C lowering can have in mitigating the excess CV risk in high-risk states. In addition, a reduction in LDL-C levels to target concentrations of 25.1&#xA0;mg/dL (0.65&#xA0;mmol/L)&#x2013;50.3&#xA0;mg/dL (1.3&#xA0;mmol/L) has been proposed to reduce CV events in patients with a recent ACS and diabetes [<xref ref-type="bibr" rid="CR15">15</xref>]. In an analysis of the ODYSSEY OUTCOMES trial, the effect of alirocumab on CV outcomes was assessed by baseline glycemic status (27.7% were patients with normoglycemia, 28.8% with diabetes, and 43.6% with pre-diabetes). Results demonstrated that after a recent ACS, treatment with alirocumab targeting the above-mentioned LDL-C concentrations produces about twice the absolute reduction in CV events among patients with diabetes as in those without diabetes [<xref ref-type="bibr" rid="CR15">15</xref>]. Furthermore, it has recently been reported that alirocumab on top of intensive statin therapy potentially reduces death after ACS, particularly in treatments for&#x2009;&#x2265;&#x2009;3&#xA0;years, if baseline LDL-C is&#x2009;&#x2265;&#x2009;100&#xA0;mg/dL, or if achieved LDL-C is low [<xref ref-type="bibr" rid="CR18">18</xref>].</p>
+        <p id="Par43">Current treatment guidelines recommend that LDL-C targets are set according to an individual&#x2019;s CV risk. Individuals with T2DM and prior ASCVD are classified as being at extreme risk by the American Association of Clinical Endocrinologists (AACE), who recommend LDL-C targets of &lt;&#x2009;55&#xA0;mg/dL, non-HDL-C targets of &lt;&#x2009;80&#xA0;mg/dL, and ApoB targets of &lt;&#xA0;70&#xA0;mg/dL for this patient population [<xref ref-type="bibr" rid="CR19">19</xref>]. In addition, the AACE recommends the consideration of PCSK9 inhibitors in individuals with clinical CV disease who are unable to reach LDL-C or non-HDL-C goals with maximally tolerated statin therapy [<xref ref-type="bibr" rid="CR19">19</xref>]. The published data from the FOURIER and ODYSSEY OUTCOMES trials further support this assertion; however, these more aggressive lipid targets have not been adopted by all guidelines to date. It is also important to note the influence that certain diabetic medications may have on PCSK9 expression. Liraglutide, a once-daily glucagon-like peptide-1 (GLP-1) agonist, was found to suppress PCSK9 expression via a hepatocyte nuclear factor 1 alpha (HNF1&#x3B1;)-dependent mechanism in the human hepatoma cell line, HepG2 [<xref ref-type="bibr" rid="CR20">20</xref>]. In this analysis, between 9 and 17% of patients received a GLP-1 agonist; however, it would not be appropriate to speculate the effects this may exert on the results.</p>
+        <p id="Par44">It is noteworthy that in DM-DYSLIPIDEMIA, alirocumab was superior to moderate-dose fish oils and fenofibrate in improving the atherogenic lipid profile [<xref ref-type="bibr" rid="CR4">4</xref>]. Furthermore, results from the ACCORD-LIPID study demonstrated that combination therapy with fenofibrate and simvastatin did not significantly reduce CV event rates compared with statin monotherapy in patients with T2DM [<xref ref-type="bibr" rid="CR21">21</xref>]. Ongoing trials, including the CVOT PROMINENT (NCT03071692) study are further investigating the use of fibrates in this patient population. This is clinically relevant as fish oil and fenofibrate are considered by some as therapeutic options after statins in patients with mixed dyslipidemia. With that said, high dose eicosapentaenoic acid in the REDUCE-IT trial did reduce CV events despite achieving only modest reductions in triglycerides and ApoB [<xref ref-type="bibr" rid="CR22">22</xref>]. The reasons for this are unclear but could include beneficial pleiotropic effects beyond the change in atherogenic particle number.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Analysis of DM-DYSLIPIDEMIA and DM-INSULIN</title>
+        <p id="Par45">DM-DYSLIPIDEMIA and DM-INSULIN were separate trials with different study designs (one versus UC and the other versus placebo); however, both studies were conducted exclusively in patients with diabetes. While patients in the DM-DYSLIPIDEMIA trial were enrolled because of elevated non-HDL-C, those in DM-INSULIN were enrolled only based on elevated LDL-C. In DM-DYSLIPIDEMIA, alirocumab significantly reduced non-HDL-C (the primary endpoint) and LDL-C versus UC (<italic>P&#x2009;</italic>&lt;&#x2009;0.0001) [<xref ref-type="bibr" rid="CR4">4</xref>]. In DM-INSULIN, alirocumab treatment resulted in significant LDL-C reductions compared with placebo (<italic>P&#x2009;</italic>&lt;&#x2009;0.0001) [<xref ref-type="bibr" rid="CR8">8</xref>]. As the study designs were different, we presented our analyses separately for each trial. However, it is worth noting that patients in the DM-INSULIN trial had similar ApoB and LDL-P levels to those patients in the DM-DYSLIPIDEMIA trial. Furthermore, insulin therapy is often the end stage of glucose-lowering medication intensification and the observation that patients on insulin had high levels of atherogenic lipoproteins only serves to reinforce the high CV risk of this patient population.</p>
+        <p id="Par46">One major rationale for evaluating the subgroups with ASCVD in DM-DYSLIPIDEMIA and DM-INSULIN is because both studies investigated patients with increased levels of TGRL (non-HDL-C minus LDL-C). The average baseline level of TGRL was approximately 34&#xA0;mg/dL and 48&#xA0;mg/dL in DM-INSULIN and DM-DYSLIPIDEMIA, respectively [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. These studies therefore represent a different diabetic patient population than those included in the FOURIER and ODYSSEY OUTCOMES trials, with broader eligibility criteria regarding the type of CV disease. In both of these clinical outcomes trials, non-HDL-C levels were&#x2009;&#x2264;&#x2009;125&#xA0;mg/dL and TGRL levels were&#x2009;&lt;&#x2009;32&#xA0;mg/dL [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR16">16</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="Sec11" sec-type="conclusion">
+      <title>Conclusion</title>
+      <p id="Par47">In summary, among very high risk individuals with T2DM and ASCVD who had elevated non-HDL-C (DM-DYSLIPIDEMIA) or LDL-C (DM-INSULIN) levels despite maximally tolerated statins, alirocumab significantly reduced atherogenic cholesterol and improved achievement of LDL-C, non-HDL-C, and ApoB goals versus controls.</p>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>AACE</term>
+          <def>
+            <p id="Par6">American Association of Clinical Endocrinologists</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ACS</term>
+          <def>
+            <p id="Par7">acute coronary syndrome</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ADA</term>
+          <def>
+            <p id="Par8">American Diabetes Association</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ApoB</term>
+          <def>
+            <p id="Par9">apolipoprotein B</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ASCVD</term>
+          <def>
+            <p id="Par10">atherosclerotic cardiovascular disease</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CHD</term>
+          <def>
+            <p id="Par11">coronary heart disease</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CV</term>
+          <def>
+            <p id="Par12">cardiovascular</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>EAS</term>
+          <def>
+            <p id="Par13">European Atherosclerosis Society</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>ESC</term>
+          <def>
+            <p id="Par14">European Cardiovascular Society</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HDL-C</term>
+          <def>
+            <p id="Par15">high-density lipoprotein cholesterol</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LDL-C</term>
+          <def>
+            <p id="Par16">low-density lipoprotein cholesterol</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LDL-PN</term>
+          <def>
+            <p id="Par17">low-density lipoprotein particle number</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LLT</term>
+          <def>
+            <p id="Par18">lipid-lowering therapy</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MI</term>
+          <def>
+            <p id="Par19">myocardial infarction</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PAD</term>
+          <def>
+            <p id="Par20">peripheral artery disease</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PCSK9</term>
+          <def>
+            <p id="Par21">proprotein convertase subtilisin/kexin type 9</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>Q2W</term>
+          <def>
+            <p id="Par22">every 2&#xA0;weeks</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>T1DM</term>
+          <def>
+            <p id="Par23">type 1 diabetes mellitus</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>T2DM</term>
+          <def>
+            <p id="Par24">type 2 diabetes mellitus</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>TEAE</term>
+          <def>
+            <p id="Par25">treatment-emergent adverse event</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>UC</term>
+          <def>
+            <p id="Par26">usual care</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors would like to thank the patients, their families, and all investigators involved in this study. Additional statistical analyses were provided by Desmond Thompson, Ph.D., and Helen Li, Ph.D., both of Regeneron. Additional interpretation of data was provided by Robert Henry, MD, of the University of California San Diego School of Medicine. Medical writing assistance and editorial support, under the direction of the authors, was provided by Michele Damo, PharmD, of Prime (Knutsford, UK), according to Good Publication Practice guidelines (<ext-link ext-link-type="uri" xlink:href="https://annals.org/aim/fullarticle/2424869/good-publication-practice-communicating-company-sponsored-medical-research-gpp3">https://annals.org/aim/fullarticle/2424869/good-publication-practice-communicating-company-sponsored-medical-research-gpp3</ext-link>). The sponsors were involved in the study design, and collection, analysis, and interpretation of data, as well as data checking of information provided in the manuscript. The authors had unrestricted access to study data, were responsible for all content and editorial decisions, and received no honoraria related to the development of this publication. KKR acknowledges support from the NIHR Imperial Biomedical Research Centre.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>KKR, SDP, DM-W, BC, HMC, FJT, CD, AL, JM, RS, MB-B and LAL contributed to the study design or concept and the interpretation of the data, and critically reviewed and edited the manuscript. In addition, SDP and FJT were investigators who contributed to the data acquisition. AL and JM performed the statistical analyses. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>Funded by Sanofi and Regeneron Pharmaceuticals, Inc.</p>
+    </notes>
+    <notes>
+      <title>Availability of data and materials</title>
+      <p id="Par48">Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi&#x2019;s data sharing criteria, eligible studies, and process for requesting access can be found at: <ext-link ext-link-type="uri" xlink:href="https://www.clinicalstudydatarequest.com">https://www.clinicalstudydatarequest.com</ext-link>.</p>
+    </notes>
+    <notes>
+      <title>Ethics approval and consent to participate</title>
+      <p id="Par49">The study protocol was approved by local institutional review boards and/or ethics committees. This study was conducted in accordance with the ethical principles outlined in the Declaration of Helsinki, consistent with Good Clinical Practices, and applicable regulatory requirements.</p>
+    </notes>
+    <notes>
+      <title>Consent for publication</title>
+      <p id="Par50">Informed consent was obtained from each patient prior to performing any study procedures and following adequate explanation of the aims, methods, objectives, and potential hazards of the study.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Competing interests</title>
+      <p id="Par51">Kausik K. Ray has received significant research grants from Pfizer Inc., Amgen, Sanofi, Regeneron Pharmaceuticals, Inc., and MSD Pharma outside of the submitted work; modest honoraria from Dr. Reddys, Zuellig Pharma, Sanofi, Amgen, Boehringer Ingelheim, Novo Nordisk, and Pfizer Inc.; and modest consultant/advisory board fees from Medco, AstraZeneca, Resverlogix, Kowa, Abbvie, Sanofi, Amgen, Boehringer Ingelheim, Esperion, Akcea, and Regeneron Pharmaceuticals, Inc. Stefano Del Prato has received research funding from AstraZeneca, Boehringer Ingelheim, Novartis Pharmaceuticals Co., and Merck Sharpe &amp; Dohme; and is a consultant for or has received honoraria from AstraZeneca, Boehringer Ingelheim, Eli Lilly and Company, GlaxoSmithKline, Janssen Pharmaceuticals, Laboratoires Servier, Merck Sharpe &amp; Dohme, Novartis Pharmaceuticals Co., Novo Nordisk, Sanofi, Servier, and Takeda Pharmaceuticals. Dirk M&#xFC;ller-Wieland has received speaker&#x2019;s bureau and consultant/advisory board fees from Amgen, AstraZeneca, Boehringer Ingelheim, MSD (Merck), Novartis, Novo Nordisk, and Sanofi. Bertrand Cariou has received research funding and honoraria from Amgen, Sanofi and Regeneron Pharmaceuticals, Inc.; research funding from Pfizer; and honoraria from Abbott, Amgen, Akcea, AstraZeneca, Pierre Fabre, Genfit, Eli Lilly and Company, MSD Merck &amp; Co., Novo Nordisk, and Servier. Helen M. Colhoun has received grants, personal fees, and non-financial support from Sanofi and Regeneron Pharmaceuticals, Inc.; grants, institutional fees, and non-financial support from Eli Lilly and Company; grants from AstraZeneca and Pfizer Inc.; and grants and fees from Novo Nordisk; and owns stock in Roche Pharmaceuticals and Bayer. Francisco J. Tinahones has received speaker&#x2019;s bureau and consultant/advisory board fees from AstraZeneca, Amgen, Boehringer Ingelheim, Bristol-Myers Squibb, Eli Lilly and Company, GlaxoSmithKline, Janssen Pharmaceuticals, Merck Sharpe &amp; Dohme, Novartis Pharmaceuticals Co., Novo Nordisk, Sanofi, and Regeneron Pharmaceuticals, Inc. Catherine Domenger is an employee and shareholder in Sanofi. Alexia Letierce is an employee of and shareholder in Sanofi. Jonas Mandel is an employee of IviData Stats, contracted to Sanofi. Rita Samuel is an employee of and shareholder in Regeneron Pharmaceuticals, Inc. Maja Bujas-Bobanovic is an employee and shareholder in Sanofi. Lawrence A. Leiter has received personal fees from Esperion and HLS; grants and personal fees from Amgen, AstraZeneca, Eli Lilly and Company, Merck, Regeneron Pharmaceuticals, Inc., and Sanofi; and grants from Kowa and The Medicines Company.</p>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>American Diabetes Association</collab>
+          </person-group>
+          <article-title>2. Classification and diagnosis of diabetes: standards of medical care in diabetes-2018</article-title>
+          <source>Diabetes Care</source>
+          <year>2018</year>
+          <volume>41</volume>
+          <fpage>S13</fpage>
+          <lpage>S27</lpage>
+          <pub-id pub-id-type="doi">10.2337/dc18-S002</pub-id>
+          <pub-id pub-id-type="pmid">29222373</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grundy</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>AL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: executive summary: a report of the american college of cardiology/american heart association task force on clinical practice guidelines</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2019</year>
+          <volume>73</volume>
+          <fpage>3168</fpage>
+          <lpage>3209</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2018.11.002</pub-id>
+          <pub-id pub-id-type="pmid">30423391</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verges</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathophysiology of diabetic dyslipidaemia: where are we?</article-title>
+          <source>Diabetologia</source>
+          <year>2015</year>
+          <volume>58</volume>
+          <fpage>886</fpage>
+          <lpage>899</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00125-015-3525-8</pub-id>
+          <pub-id pub-id-type="pmid">25725623</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ray</surname>
+              <given-names>KK</given-names>
+            </name>
+            <name>
+              <surname>Leiter</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Muller-Wieland</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Alirocumab vs usual lipid-lowering care as add-on to statin therapy in individuals with type 2 diabetes and mixed dyslipidaemia: the ODYSSEY DM-DYSLIPIDEMIA randomized trial</article-title>
+          <source>Diabetes Obes Metab</source>
+          <year>2018</year>
+          <volume>20</volume>
+          <fpage>1479</fpage>
+          <lpage>1489</lpage>
+          <pub-id pub-id-type="doi">10.1111/dom.13257</pub-id>
+          <pub-id pub-id-type="pmid">29436756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>American Diabetes Association</collab>
+          </person-group>
+          <article-title>10. Cardiovascular disease and risk management: standards of medical care in diabetes-2019</article-title>
+          <source>Diabetes Care</source>
+          <year>2019</year>
+          <volume>42</volume>
+          <fpage>S103</fpage>
+          <lpage>S123</lpage>
+          <pub-id pub-id-type="doi">10.2337/dc19-S010</pub-id>
+          <pub-id pub-id-type="pmid">30559236</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cosentino</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Grant</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Aboyans</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>ESC guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD: the Task Force for diabetes, pre-diabetes, and cardiovascular diseases of the European Society of Cardiology (ESC) and the European Association for the Study of Diabetes (EASD)</article-title>
+          <source>Eur Heart J</source>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1093/eurheartj/ehz486</pub-id>
+          <pub-id pub-id-type="pmid">31608951</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>GG</given-names>
+            </name>
+            <name>
+              <surname>Steg</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Szarek</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Alirocumab and cardiovascular outcomes after acute coronary syndrome</article-title>
+          <source>N Engl J Med</source>
+          <year>2018</year>
+          <volume>379</volume>
+          <fpage>2097</fpage>
+          <lpage>2107</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa1801174</pub-id>
+          <pub-id pub-id-type="pmid">30403574</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leiter</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Cariou</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Muller-Wieland</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Efficacy and safety of alirocumab in insulin-treated individuals with type 1 or type 2 diabetes and high cardiovascular risk: the ODYSSEY DM-INSULIN randomized trial</article-title>
+          <source>Diabetes Obes Metab</source>
+          <year>2017</year>
+          <volume>19</volume>
+          <fpage>1781</fpage>
+          <lpage>1792</lpage>
+          <pub-id pub-id-type="doi">10.1111/dom.13114</pub-id>
+          <pub-id pub-id-type="pmid">28905478</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>M&#xFC;ller-Wieland</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Leiter</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Cariou</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Design and rationale of the ODYSSEY DM-DYSLIPIDEMIA trial: lipid-lowering efficacy and safety of alirocumab in individuals with type 2 diabetes and mixed dyslipidaemia at high cardiovascular risk</article-title>
+          <source>Cardiovasc Diabetol</source>
+          <year>2017</year>
+          <volume>16</volume>
+          <fpage>70</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12933-017-0552-4</pub-id>
+          <pub-id pub-id-type="pmid">28545518</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giugliano</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Cannon</surname>
+              <given-names>CP</given-names>
+            </name>
+            <name>
+              <surname>Blazing</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Benefit of adding ezetimibe to statin therapy on cardiovascular outcomes and safety in patients with versus without diabetes mellitus: results from IMPROVE-IT (Improved Reduction of Outcomes: Vytorin Efficacy International Trial)</article-title>
+          <source>Circulation</source>
+          <year>2018</year>
+          <volume>137</volume>
+          <fpage>1571</fpage>
+          <lpage>1582</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.117.030950</pub-id>
+          <pub-id pub-id-type="pmid">29263150</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Eagle</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Ohman</surname>
+              <given-names>EM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Comparative determinants of 4-year cardiovascular event rates in stable outpatients at risk of or with atherothrombosis</article-title>
+          <source>JAMA</source>
+          <year>2010</year>
+          <volume>304</volume>
+          <fpage>1350</fpage>
+          <lpage>1357</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.2010.1322</pub-id>
+          <pub-id pub-id-type="pmid">20805624</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Bays</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Chaudhari</surname>
+              <given-names>U</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Safety of alirocumab (a PCSK9 monoclonal antibody) from 14 randomized trials</article-title>
+          <source>Am J Cardiol</source>
+          <year>2016</year>
+          <volume>118</volume>
+          <fpage>1805</fpage>
+          <lpage>1811</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.amjcard.2016.08.072</pub-id>
+          <pub-id pub-id-type="pmid">27729106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gurgoze</surname>
+              <given-names>MT</given-names>
+            </name>
+            <name>
+              <surname>Muller-Hansma</surname>
+              <given-names>AHG</given-names>
+            </name>
+            <name>
+              <surname>Schreuder</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Galema-Boers</surname>
+              <given-names>AMH</given-names>
+            </name>
+            <name>
+              <surname>Boersma</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Roeters van Lennep</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Adverse events associated with PCSK9 inhibitors: a real-world experience</article-title>
+          <source>Clin Pharmacol Ther</source>
+          <year>2019</year>
+          <volume>105</volume>
+          <fpage>496</fpage>
+          <lpage>504</lpage>
+          <pub-id pub-id-type="doi">10.1002/cpt.1193</pub-id>
+          <pub-id pub-id-type="pmid">30053327</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paciullo</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Momi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gresele</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>PCSK9 in haemostasis and thrombosis: possible pleiotropic effects of PCSK9 inhibitors in cardiovascular prevention</article-title>
+          <source>Thromb Haemost</source>
+          <year>2019</year>
+          <volume>119</volume>
+          <fpage>359</fpage>
+          <lpage>367</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-0038-1676863</pub-id>
+          <pub-id pub-id-type="pmid">30605918</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ray</surname>
+              <given-names>KK</given-names>
+            </name>
+            <name>
+              <surname>Colhoun</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Szarek</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effects of alirocumab on cardiovascular and metabolic outcomes after acute coronary syndrome in patients with or without diabetes: a prespecified analysis of the ODYSSEY OUTCOMES randomised controlled trial</article-title>
+          <source>Lancet Diabetes Endocrinol.</source>
+          <year>2019</year>
+          <volume>7</volume>
+          <fpage>618</fpage>
+          <lpage>628</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2213-8587(19)30158-5</pub-id>
+          <pub-id pub-id-type="pmid">31272931</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabatine</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Giugliano</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Keech</surname>
+              <given-names>AC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Evolocumab and clinical outcomes in patients with cardiovascular disease</article-title>
+          <source>N Engl J Med</source>
+          <year>2017</year>
+          <volume>376</volume>
+          <fpage>1713</fpage>
+          <lpage>1722</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa1615664</pub-id>
+          <pub-id pub-id-type="pmid">28304224</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabatine</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Leiter</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Wiviott</surname>
+              <given-names>SD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cardiovascular safety and efficacy of the PCSK9 inhibitor evolocumab in patients with and without diabetes and the effect of evolocumab on glycaemia and risk of new-onset diabetes: a prespecified analysis of the FOURIER randomised controlled trial</article-title>
+          <source>Lancet Diabetes Endocrinol</source>
+          <year>2017</year>
+          <volume>5</volume>
+          <fpage>941</fpage>
+          <lpage>950</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2213-8587(17)30313-3</pub-id>
+          <pub-id pub-id-type="pmid">28927706</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Steg</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Szarek</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>DL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effect of alirocumab on mortality after acute coronary syndromes</article-title>
+          <source>Circulation</source>
+          <year>2019</year>
+          <volume>140</volume>
+          <fpage>103</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.118.038840</pub-id>
+          <pub-id pub-id-type="pmid">31117810</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garber</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Abrahamson</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Barzilay</surname>
+              <given-names>JI</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Consensus statement by the American Association of Clinical Endocrinologists and American Collage of Endocrinology on the comprehensive type 2 diabetes management algorithm&#x2014;2019 executive summary</article-title>
+          <source>Endocr Pract</source>
+          <year>2019</year>
+          <volume>25</volume>
+          <fpage>69</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="doi">10.4158/CS-2018-0535</pub-id>
+          <pub-id pub-id-type="pmid">30742570</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>S-H</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>R-X</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>C-J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Liraglutide downregulates hepatic LDL receptor and PCSK9 expression in HepG2 cells and db/db mice through a HNF-1a dependent mechanism</article-title>
+          <source>Cardiovasc Diabetol.</source>
+          <year>2018</year>
+          <volume>17</volume>
+          <fpage>48</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12933-018-0689-9</pub-id>
+          <pub-id pub-id-type="pmid">29618348</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elam</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lovato</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ginsberg</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>The ACCORD-lipid study: implications for treatment of dyslipidemia in type 2 diabetes mellitus</article-title>
+          <source>Clin Lipidol.</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <fpage>9</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="doi">10.2217/clp.10.84</pub-id>
+          <pub-id pub-id-type="pmid">26207146</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Steg</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cardiovascular risk reduction with icosapent ethyl for hypertriglyceridemia</article-title>
+          <source>N Engl J Med.</source>
+          <year>2019</year>
+          <volume>380</volume>
+          <fpage>11</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa1812792</pub-id>
+          <pub-id pub-id-type="pmid">30415628</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

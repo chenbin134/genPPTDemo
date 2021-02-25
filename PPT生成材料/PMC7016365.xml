@@ -1,0 +1,1424 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">EBioMedicine</journal-id>
+      <journal-id journal-id-type="iso-abbrev">EBioMedicine</journal-id>
+      <journal-title-group>
+        <journal-title>EBioMedicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2352-3964</issn>
+      <publisher>
+        <publisher-name>Elsevier</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">32062356</article-id>
+      <article-id pub-id-type="pmc">7016365</article-id>
+      <article-id pub-id-type="publisher-id">S2352-3964(20)30032-3</article-id>
+      <article-id pub-id-type="doi">10.1016/j.ebiom.2020.102657</article-id>
+      <article-id pub-id-type="publisher-id">102657</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Identification and external validation of IgA nephropathy patients benefiting from immunosuppression therapy</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="au0001">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Tingyu</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff">a</xref>
+          <xref rid="fn1" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0002">
+          <name>
+            <surname>Xia</surname>
+            <given-names>Eryu</given-names>
+          </name>
+          <xref rid="aff0002" ref-type="aff">b</xref>
+          <xref rid="fn1" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0003">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Tiange</given-names>
+          </name>
+          <xref rid="aff0003" ref-type="aff">c</xref>
+          <xref rid="fn1" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0004">
+          <name>
+            <surname>Zeng</surname>
+            <given-names>Caihong</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0005">
+          <name>
+            <surname>Liang</surname>
+            <given-names>Shaoshan</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0006">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Feng</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0007">
+          <name>
+            <surname>Qin</surname>
+            <given-names>Yong</given-names>
+          </name>
+          <xref rid="aff0002" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0008">
+          <name>
+            <surname>Li</surname>
+            <given-names>Xiang</given-names>
+          </name>
+          <xref rid="aff0003" ref-type="aff">c</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0009">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Yuan</given-names>
+          </name>
+          <xref rid="aff0002" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0010">
+          <name>
+            <surname>Liang</surname>
+            <given-names>Dandan</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0011">
+          <name>
+            <surname>Xie</surname>
+            <given-names>Guotong</given-names>
+          </name>
+          <email>xieguotong@pingan.com.cn</email>
+          <xref rid="aff0003" ref-type="aff">c</xref>
+          <xref rid="cor0001" ref-type="corresp">&#x204E;</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0012">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Zhihong</given-names>
+          </name>
+          <email>liuzhihong@nju.edu.cn</email>
+          <xref rid="aff0001" ref-type="aff">a</xref>
+          <xref rid="cor0001" ref-type="corresp">&#x204E;</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff0001"><label>a</label>National Clinical Research Center of Kidney Diseases, Jinling Hospital, Nanjing University School of Medicine, Nanjing, 210002 Jiangsu, China</aff>
+      <aff id="aff0002"><label>b</label>IBM Research - China, Beijing, China</aff>
+      <aff id="aff0003"><label>c</label>Ping An Healthcare Technology, 9F Building B, PingAn IFC, No.1-3 Xinyuan South Road, Beijing 100027, China</aff>
+      <author-notes>
+        <corresp id="cor0001"><label>&#x204E;</label>Corresponding authors. <email>xieguotong@pingan.com.cn</email><email>liuzhihong@nju.edu.cn</email></corresp>
+        <fn id="fn1">
+          <label>1</label>
+          <p id="notep0001">These authors contributed equally to this work.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="pmc-release">
+        <day>12</day>
+        <month>2</month>
+        <year>2020</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on <pub-date
+						pub-type="epub">.-->
+      <pub-date pub-type="collection">
+        <month>2</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>2</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>52</volume>
+      <elocation-id>102657</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>11</month>
+          <year>2019</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>20</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2020 The Authors</copyright-statement>
+        <copyright-year>2020</copyright-year>
+        <license license-type="CC BY-NC-ND" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+          <license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p>
+        </license>
+      </permissions>
+      <abstract id="abs0001">
+        <sec>
+          <title>Background</title>
+          <p>Although IgA nephropathy (IgAN), an immune-mediated disease with heterogeneous clinical and pathological phenotypes, is the most common glomerulonephritis worldwide, it remains unclear which IgAN patients benefit from immunosuppression (IS) therapy.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>Clinical and pathological data from 4047 biopsy-proven IgAN patients from 24 renal centres in China were included. The derivation and validation cohorts were composed of 2058 and 1989 patients, respectively. Model-based recursive partitioning, a machine learning approach, was performed to partition patients in the derivation cohort into subgroups with different IS long-term benefits, associated with time to end-stage kidney disease, measured by adjusted Kaplan-Meier estimator and adjusted hazard ratio (HR) using Cox regression.</p>
+        </sec>
+        <sec>
+          <title>Findings</title>
+          <p>Three identified subgroups obtained a significant IS benefits with HRs &#x2264; 1. In patients with serum creatinine &#x2264; 1&#xB7;437&#xA0;mg/dl, the benefits of IS were observed in those with proteinuria &gt; 1&#xB7;525&#xA0;g/24h (node 6; HR&#xA0;=&#xA0;0&#xB7;50; 95% CI, 0&#xB7;29 to 0&#xB7;89; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;02), especially in those with proteinuria &gt; 2&#xB7;480&#xA0;g/24h (node 8; HR&#xA0;=&#xA0;&#xA0;0&#xB7;23; 95% CI, 0&#xB7;11 to 0&#xB7;50; <italic>P</italic>&#xA0;&lt;0&#xB7;001). In patients with serum creatinine &gt; 1&#xB7;437&#xA0;mg/dl, those with high proteinuria and crescents benefitted from IS (node 12; HR&#xA0;=&#xA0;0&#xB7;29; 95% CI, 0&#xB7;09 to 0&#xB7;94; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;04). The treatment benefits were externally validated in the validation cohort.</p>
+        </sec>
+        <sec>
+          <title>Interpretation</title>
+          <p>Machine learning could be employed to identify subgroups with different IS benefits. These efforts promote decision-making, assist targeted clinical trial design, and shed light on individualised treatment in IgAN patients.</p>
+        </sec>
+        <sec>
+          <title>Funding</title>
+          <p>National Key Research and Development&#xA0;Program of China (2016YFC0904103), National Key Technology R&amp;D Program (2015BAI12B02).</p>
+        </sec>
+      </abstract>
+      <kwd-group id="keys0001">
+        <title>Keywords</title>
+        <kwd>Glomerulonephritis</kwd>
+        <kwd>IgA nephropathy</kwd>
+        <kwd>Machine learning</kwd>
+        <kwd>Heterogeneous treatment response</kwd>
+        <kwd>Decision support</kwd>
+        <kwd>Precision medicine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p id="para9001">
+      <boxed-text id="tbox0002">
+        <caption>
+          <title>Research in context</title>
+        </caption>
+        <sec id="sec0001">
+          <title>Evidence before this study</title>
+          <p id="para0006">IgA nephropathy is the most common primary glomerulonephritis and an important cause of end-stage kidney disease worldwide, especially in Asian regions. Although it is considered an immune-mediated disease with heterogeneous phenotypes clinically and pathologically, which IgA nephropathy patients will benefit from immunosuppression treatment and how to identify these patients remains unclear. Previous clinical trials regarding IgA nephropathy treatment decisions recruited patients by merely relying on simplistic categories of clinical risk factors rather than a comprehensive consideration of both clinical and pathological characteristics, possibly leading to inaccurate risk stratification and undetermined treatment effectiveness. Some recently developed machine learning methods can learn from data sets and be used to identify patient subgroups with differential responses to treatment.</p>
+        </sec>
+        <sec id="sec0002">
+          <title>Added value of this study</title>
+          <p id="para0007">A large national collaboration data set consisting 4047 IgA nephropathy patients from 24 renal centres was collected. Subgroups with different immunosuppression treatment benefits were identified automatically using a machine learning method in IgA nephropathy patients based on a broad spectrum of clinical and pathological characteristics. Potential subgroups of patients benefiting from immunosuppression therapy on reducing real-world kidney decisive outcomes were identified in 2058 IgA nephropathy patients from 18 renal centres and externally validated in 1989 IgA nephropathy patients from 7 renal centres.</p>
+        </sec>
+        <sec id="sec0003">
+          <title>Implications of all the available evidence</title>
+          <p id="para0008">Our study suggested that comprehensive consideration of renal function, proteinuria and renal histological characteristics would serve as indicators for the selection of immunosuppression therapy in IgA nephropathy patients. These efforts promote decision-making, assist future targeted clinical trials, and shed light on individualised treatment in IgA nephropathy patients. We also illustrated the power of machine learning methods in solving medical puzzles, discovering insight from real-world data and facilitating precision medicine in patients with kidney diseases.</p>
+        </sec>
+        <notes notes-type="alt-text" specific-use="for-accessibility" id="alte1">
+          <p>Alt-text: Unlabelled box</p>
+        </notes>
+      </boxed-text>
+    </p>
+    <sec id="sec0005">
+      <label>1</label>
+      <title>Introduction</title>
+      <p id="para0010">IgA nephropathy (IgAN) is the most common primary glomerulonephritis worldwide, especially in Asian regions, where IgAN accounts for approximately 50% of all cases <xref rid="bib0001" ref-type="bibr">[1]</xref>. IgAN is characterised by the deposition of IgA in the mesangial area of the glomeruli, accompanied by various clinical manifestations and histopathological lesions. Up to one in four patients suffer from end-stage kidney disease (ESKD) within 20 years from diagnosis and require renal transplantation <xref rid="bib0002" ref-type="bibr">[2]</xref>.</p>
+      <p id="para0011">Immunosuppression (IS) therapy is a common treatment choice for immune-mediated kidney disease <xref rid="bib0003" ref-type="bibr">[3]</xref>. Although IgAN has been recognised as an immune-mediated disease, the pathogenesis of IgAN has not yet been fully elucidated and the efficacy of IS in patients with IgAN remains controversial [<xref rid="bib0002" ref-type="bibr">2</xref>,<xref rid="bib0004" ref-type="bibr">4</xref>]. Clinical trials have been conducted to address the effects of IS therapy in IgAN patients with &#x201C;high-risk&#x201D; factors including renal function, proteinuria and hypertension [<xref rid="bib0005" ref-type="bibr">5</xref>,<xref rid="bib0006" ref-type="bibr">6</xref>]. The STOP-IgAN randomised controlled trial (RCT) illustrated that IS reduced proteinuria but had no effects on the slope of the eGFR decline or ESKD after 3 years <xref rid="bib0007" ref-type="bibr">[7]</xref>. Although the TESTING trial showed that oral corticosteroids had potential renal benefit, definitive conclusions about their efficacy could not be drawn since the trial was terminated early owing to serious side effects <xref rid="bib0008" ref-type="bibr">[8]</xref>.</p>
+      <p id="para0012">Notably, kidney histological characteristics were not taken into consideration when recruiting the patients into these two trials <xref rid="bib0009" ref-type="bibr">[9]</xref>. Determining the disease status and making treatment decisions based on a simplistic categorisation of clinical risk factors, such as renal function and proteinuria, with no consideration of kidney histological characteristics may have resulted in insufficient and unpredictable results as mentioned in the two trials [<xref rid="bib0007" ref-type="bibr">7</xref>,<xref rid="bib0008" ref-type="bibr">8</xref>,<xref rid="bib0010" ref-type="bibr">10</xref>,<xref rid="bib0011" ref-type="bibr">11</xref>]. Incorporating pathological features into the evaluation indicators may be necessary to group IgAN patients and guide treatment more precisely.</p>
+      <p id="para0013">Recent advancements in machine learning provide an approach to identify IgAN patients who may potentially benefit from IS therapy. We can employ machine learning methods to jointly consider clinical and pathological features, model their high-order interactions, and effectively identify subgroups who may potentially benefit from IS therapy. Model-based recursive partitioning <xref rid="bib0012" ref-type="bibr">[12]</xref>, a machine learning method used for the automated identification of subpopulations, has recently been applied in medicine for discovering patient subgroups with differential responses to treatment [<xref rid="bib0013" ref-type="bibr">13</xref>,<xref rid="bib0014" ref-type="bibr">14</xref>].</p>
+      <p id="para0014">This study is the first to use machine learning to explore more individualised IS treatment selection in IgAN patients. In our study, a large national collaboration data set, which consisted of 4047 IgAN patients from 24 renal centres, was analysed. We successfully identified and externally validated subgroups of patients who may potentially benefit from IS therapy based on a broad spectrum of clinical and pathological features, with direct consideration of ESKD (the decisive kidney outcome), explicit modelling of high-order feature interactions, and automatic selection of cut-off values in IgAN patients. The findings of this study can provide insights into data-informed decision making in treating IgAN patients and the inclusion of targeted patients in future clinical trials, thus shedding light on individualised therapy in IgAN patients.</p>
+    </sec>
+    <sec id="sec0006">
+      <label>2</label>
+      <title>Materials and methods</title>
+      <sec id="sec0007">
+        <label>2.1</label>
+        <title>Study cohort</title>
+        <p id="para0015">The study included the Nanjing cohort (<italic>n</italic>&#xA0;=&#xA0;1026), which consisted of patients from 18 centres associated with Jinling Hospital in Nanjing (China) between January 1997 and June 2010; the Chinese Registry of Prognostic Study of IgA Nephropathy (CRPIGA) cohort (<italic>n</italic>&#xA0;=&#xA0;2155), which included patients from 7 centres before December 2015; and the single-centre Nanjing Glomerulonephritis Registry (NGR) cohort (<italic>n</italic>&#xA0;=&#xA0;2354), which was retrieved consecutively from the Nanjing Glomerulonephritis Registry (Jinling Hospital) between January 2006 and June 2011. The Nanjing and CRPIGA cohorts were collected independently for research purposes, and details have been previously described [<xref rid="bib0015" ref-type="bibr">15</xref>,<xref rid="bib0016" ref-type="bibr">16</xref>]. In the current study, we included patients with biopsy-proven primary IgAN who were 18 years or older with follow-up exceeding 12 months, estimated glomerular filtration rate (eGFR) &#x2265; 30&#xA0;mL/min/1&#xB7;73 m<sup>2</sup>, and proteinuria &#x2265; 0&#xB7;5&#xA0;g/d. Patients who progressed to ESKD within the first 12 months of follow-up were also included. Patients with secondary causes or those with comorbid conditions were excluded.</p>
+        <p id="para0016">The derivation cohort included the Nanjing cohort and NGR cohort I (data from January 2006 to June 2009), and the validation cohort consisted of the CRPIGA cohort and NGR cohort II (data from July 2009 to June 2011). The Department of Nephrology at Ruijin Hospital participated both in the derivation and validation cohorts, and the patients did not overlap.</p>
+        <p id="para0017">This study followed the tenets of the Declaration of Helsinki, and was approved by the ethics committee of Jinling Hospital (2010NLY-023), Nanjing, China. Written informed consent was obtained from all study participants.</p>
+      </sec>
+      <sec id="sec0008">
+        <label>2.2</label>
+        <title>Definitions of variables</title>
+        <p id="para0018">The baseline data, including demographic and disease characteristics, and clinical and pathological variables (Table S1) were collected within 1 month of the renal biopsy. In the derivation cohort, blood pressure, serum creatinine, and proteinuria during follow-up were also recorded. Serum creatinine was measured using enzymatic methods calibrated to the National Institute of Standards and Technology Liquid Chromatography Isotope Dilution Mass Spectrometry method.</p>
+        <p id="para0019">The definition of therapy was consistent with previous retrospective studies of IgAN [<xref rid="bib0017" ref-type="bibr">17</xref>,<xref rid="bib0018" ref-type="bibr">18</xref>]. IS therapy (corticosteroids, cyclophosphamide and mycophenolate mofetil) and renin-angiotensin system blockade (any exposure to angiotensin-converting enzyme inhibitors, angiotensin receptor blockers or both, RASB) prior to biopsy were assessed. IS therapy and RASB use at biopsy and during the follow-up time were reported separately. The patients&#x2019; treatment began immediately after the biopsy unless there were contraindications or adverse reactions. Patients who received corticosteroids, cyclophosphamide or mycophenolate mofetil were defined as having received standard-of-care IS therapy in this study. Corticosteroids and cyclophosphamide were recommended by the KIDGO guidelines for IgAN <xref rid="bib0019" ref-type="bibr">[19]</xref>, and mycophenolate mofetil was reported to lower proteinuria and ameliorate histopathological changes in RCTs, especially in Chinese patients [<xref rid="bib0020" ref-type="bibr">20</xref>,<xref rid="bib0021" ref-type="bibr">21</xref>]. With reference to previous studies [<xref rid="bib0017" ref-type="bibr">17</xref>,<xref rid="bib0018" ref-type="bibr">18</xref>], IS treatment was reported according to the intention to treat principle regardless of the actual duration of therapy. Due to the limitation of the retrospective study design, the dosage of IS therapy was not collected.</p>
+        <p id="para0020">The updated Oxford Classification <xref rid="bib0022" ref-type="bibr">[22]</xref> was applied for scoring kidney pathological lesions and was defined as follows: mesangial hypercellularity (M0, mesangial score &#x2264;0&#xB7;5; M1, mesangial score &gt;0&#xB7;5), endocapillary hypercellularity (E0, absent; E1, present), segmental glomerulosclerosis (S0, absent; S1, present), tubular atrophy/interstitial fibrosis (T0, &#x2264;25%; T1, 26%&#x2013;50%; T2, &gt;50%), and cellular/fibrocellular crescents (C0, absent; C1, present in at least 1 glomerulus; C2, in&gt;25% of glomeruli). In the Nanjing cohort and the NGR cohort, renal biopsies were scored centrally. In the CRPIGA cohort, renal biopsies were scored by local pathologists who were experienced in the classification and were blinded to the other clinical data. The presence of necrosis and the condition of the arterioles were also noted in the derivation analysis for comprehensive multivariate adjustment.</p>
+        <p id="para0021">The primary clinical outcome was ESKD, a long-term kidney hard outcome, defined as eGFR&lt;15&#xA0;mL/min/1&#xB7;73 m<sup>2</sup> for &#x2265; 3 months, initiation of dialysis or transplantation. Eligible patients were followed from the time of biopsy until the earliest of any censoring event (patient left data set or transferred out, death, study end date, or most recent data upload from practice) or an outcome event. We also addressed secondary outcomes including potential surrogate end points for chronic kidney disease (40% decline in eGFR and 30% decline in eGFR) <xref rid="bib0023" ref-type="bibr">[23]</xref> and the most used surrogate outcome in previous retrospective studies of IgAN (50% decline in eGFR) <xref rid="bib0017" ref-type="bibr">[17]</xref>.</p>
+      </sec>
+      <sec id="sec0009">
+        <label>2.3</label>
+        <title>Statistical analysis</title>
+        <sec id="sec0010">
+          <label>2.3.1</label>
+          <title>Data processing and description</title>
+          <p id="para0022">A total of 40 variables (Table S1), including demographic characteristics, disease and treatment characteristics, clinical characteristics, and pathologic variables were included in the derivation dataset. A total of 17 variables were collected for the validation cohort, including the splitting factors identified from the derivation analysis and other characteristics (Table S1). The overall rates of missing data were 0&#xB7;78% and 2&#xB7;24% in the derivation and validation data sets, respectively (the rates of missing data for each variable are shown in Table S2a and Table S2b). Missing value imputation was conducted as follows: (1) missing clinical history (including personal disease history, treatment history, and family history) was imputed as &#x2018;not having the history&#x2019;; (2) missing clinical indicators were imputed with random numbers generated from the distribution; and (3) missing mean arterial pressure was calculated from imputed systolic blood pressure and diastolic blood pressure.</p>
+          <p id="para0023">Continuous variables were summarised as the mean (SD) or median (interquartile range [IQR]) and compared using the <italic>t-</italic>test or Mann&#x2013;Whitney test. Categorical variables were summarised as numbers (percentages) and compared using the chi-squared test or Fisher's exact test.</p>
+        </sec>
+        <sec id="sec0011">
+          <label>2.3.2</label>
+          <title>Benefiting cohort identification</title>
+          <p id="para0024">Recursive partitioning is a classical method for multivariate analysis, which, by creating a decision tree, divides a population into subpopulations that have similar values of the response variable. Model-based recursive partitioning <xref rid="bib0014" ref-type="bibr">[14]</xref>, a variant of recursive partitioning, is a machine learning method that embeds recursive partitioning into parametric statistical model estimation and variable selection. Model-based recursive partitioning is applicable when the response to a treatment is not homogenous in the general cohort; it divides patients into groups such that the responses to the treatment are homogenous within each subcohort and are different between the subcohorts. This method was applied in a previous study to analyse the effect of riluzole on amyotrophic lateral sclerosis <xref rid="bib0024" ref-type="bibr">[24]</xref>.</p>
+          <p id="para0025">Model-based recursive partitioning was conducted with the following basic steps: (1) fit a model to a dataset (all patients or a &#x2018;node&#x2019;); (2) test for parameter instability, where for each candidate partitioning variable and each of its possible partitioning criteria, whether splitting the node into two segments would result in a locally well-fitting model in each of the segments is tested; (3) split the node with respect to the variable and partitioning criteria associated with the highest instability; and (4) repeat the procedure in each of the daughter nodes, until the termination condition is met.</p>
+          <p id="para0026">In this study, we employed model-based recursive partitioning for patient subgroup identification with a combination of clinical and pathological features. We defined the Cox regression model as the parametric model, the time to the clinical outcome (ESKD) as the response variable, and the IS treatment as the regressor. We defined the other 39 variables (Table S1) as candidate partitioning variables, which were used to partition the dataset. We applied the model-based recursive partitioning implementation in the R package &#x2018;partykit&#x2019; <xref rid="bib0025" ref-type="bibr">[25]</xref> using negative log-likelihood as the objective function. The termination condition was set such that the maximum depth of the tree was 4 and the least number of patients in a subgroup was 50.</p>
+        </sec>
+        <sec id="sec0012">
+          <label>2.3.3</label>
+          <title>Evaluation of IS treatment benefits</title>
+          <p id="para0027">In each patient subgroup, the long-term benefits of IS treatment associated with reducing the clinical outcome was evaluated using (1) univariate and multivariate Cox regression; and (2) the Kaplan-Meier estimator and log-rank test adjusted with inverse probability of treatment weighting (IPTW). For both evaluation approaches, the propensity score was calculated to measure the probability of treatment and used to reduce the confounding effects [<xref rid="bib0026" ref-type="bibr">26</xref>,<xref rid="bib0027" ref-type="bibr">27</xref>]. The propensity score for each patient was the fitted value from a multivariate logistic regression model using the IS treatment as the dependant variable and the other variables in Table S1 as independent variables <xref rid="bib0028" ref-type="bibr">[28]</xref>. In the univariate regression scenario, a model using the disease outcome as the response variable and IS as the only regressor was fitted. The hazard ratio (HR), 95% confidence interval (CI), and <italic>P</italic> value associated with the IS variable were reported. In the multivariate regression scenario, the disease outcome was used as the response variable, with IS treatment and the propensity score as the regressors. The adjusted HR, 95% CI, and <italic>P</italic> value associated with the IS treatment variable were reported. Adjusted Kaplan-Meier estimation and log-rank test were conducted as previously described <xref rid="bib0029" ref-type="bibr">[29]</xref>, <xref rid="bib0030" ref-type="bibr">[30]</xref>, <xref rid="bib0031" ref-type="bibr">[31]</xref> using the R package &#x2018;IPWsurvival&#x2019;.</p>
+        </sec>
+        <sec id="sec0013">
+          <label>2.3.4</label>
+          <title>Model validation analysis</title>
+          <p id="para0028">External validation was performed to validate the findings from the derivation analysis. The validation cohort was partitioned into separate subsets following the same decision rules identified in the derivation analysis. In each subset, both the unadjusted hazard ratio and adjusted hazard ratio were estimated to evaluate the IS treatment benefits using the same methods as in the derivation analysis.</p>
+          <p id="para0029">Further details of the Methods are provided in Item S1 and Item S2.</p>
+          <p id="para0030">SPSS 22.0 software (IBM Corporation, Armonk, NY, USA) and R programming software (version 3.4.1) were used for the statistical analysis. All <italic>P</italic> values were two-tailed, and values &#x2264; 0&#xB7;05 were considered statistically significant.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec0014">
+      <label>3</label>
+      <title>Results</title>
+      <sec id="sec0015">
+        <label>3.1</label>
+        <title>Derivation analysis</title>
+        <p id="para0031">There were 3380 patients in the combined Nanjing cohort and NGR cohort I (from January 2006 to June 2009), of whom 2058 met the inclusion criteria and were included in the derivation cohort (<xref rid="fig0001" ref-type="fig">Fig. 1</xref>), whose characteristics are shown in <xref rid="tbl0001" ref-type="table">Table 1</xref>. The differences in characteristics between patients treated with IS and those without in the derivation cohort are shown in Table S3.<fig id="fig0001"><label>Fig. 1</label><caption><p><bold>Enrolment of patients for the derivation and validation cohorts</bold>.</p><p>The NGR cohort I included patients retrieved consecutively from the Nanjing Glomerulonephritis Registry from January 2006 to June 2009, and the NGR cohort II included patients from July 2009 to June 2011.</p><p>NGR, Nanjing Glomerulonephritis Registry; CRPIGA, Chinese Registry of Prognostic Study of IgA Nephropathy; eGFR, estimated glomerular filtration rate; IgAN, immunoglobulin A nephropathy; PAS, periodic acid&#x2013;Schiff.</p></caption><alt-text id="alt0001">Fig 1</alt-text><graphic xlink:href="gr1"/></fig><table-wrap position="float" id="tbl0001"><label>Table 1</label><caption><p>Description of the derivation and validation cohorts.</p></caption><alt-text id="alt0004">Table 1</alt-text><table frame="hsides" rules="groups"><thead><tr><th valign="top">Variables</th><th valign="top">Derivation Cohort <italic>(n</italic>&#xA0;=&#xA0;2058)</th><th valign="top">Validation Cohort <italic>(n</italic>&#xA0;=&#xA0;1989)</th><th valign="top"><italic>P</italic> Value</th></tr></thead><tbody><tr><td valign="top">Age, years, mean (SD)</td><td valign="top">34&#xB7;8 (9&#xB7;6)</td><td valign="top">34&#xB7;8 (10&#xB7;3)</td><td valign="top">0&#xB7;96</td></tr><tr><td valign="top">Male</td><td valign="top">1015 (49&#xB7;3)</td><td valign="top">1179 (59&#xB7;3)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">SBP, mm Hg, mean (SD)</td><td valign="top">127&#xB7;5 (18&#xB7;2)</td><td valign="top">124&#xB7;1 (16&#xB7;2)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">DBP, mm Hg, mean (SD)</td><td valign="top">81&#xB7;8 (12&#xB7;9)</td><td valign="top">79&#xB7;7 (11&#xB7;7)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">MAP, mm Hg, mean (SD)</td><td valign="top">96&#xB7;9 (14&#xB7;4)</td><td valign="top">94&#xB7;5 (12&#xB7;4)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">Serum creatinine, mg/dl, mean (SD)</td><td valign="top">1&#xB7;05 (0&#xB7;41)</td><td valign="top">1&#xB7;07 (0&#xB7;40)</td><td valign="top">0&#xB7;07</td></tr><tr><td valign="top">eGFR, ml/min per 1&#xB7;73m<sup>2</sup>, mean (SD)</td><td valign="top">87&#xB7;9 (30&#xB7;6)</td><td valign="top">88&#xB7;5 (29&#xB7;1)</td><td valign="top">0&#xB7;55</td></tr><tr><td valign="top">Proteinuria, g/24 hr, mean (IQR)</td><td valign="top">1&#xB7;1 (0&#xB7;8 to 1&#xB7;9)</td><td valign="top">1&#xB7;2 (0&#xB7;8 to 2&#xB7;2)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">Serum albumin, g/L, mean (SD)</td><td valign="top">38&#xB7;3 (5&#xB7;8)</td><td valign="top">38&#xB7;7 (6&#xB7;8)</td><td valign="top">0&#xB7;05</td></tr><tr><td valign="top">Pathology</td><td valign="top"/><td valign="top"/><td valign="top"/></tr><tr><td valign="top">&#xA0;No. with data</td><td valign="top">2058</td><td valign="top">1674</td><td valign="top"/></tr><tr><td valign="top">&#xA0;M1</td><td valign="top">702 (34&#xB7;1)</td><td valign="top">628 (37&#xB7;5)</td><td valign="top">0&#xB7;03</td></tr><tr><td valign="top">&#xA0;E1</td><td valign="top">244 (11&#xB7;9)</td><td valign="top">431 (25&#xB7;7)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">&#xA0;S1</td><td valign="top">1571 (76&#xB7;3)</td><td valign="top">1127 (67&#xB7;3)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">&#xA0;T1-2</td><td valign="top">516 (25&#xB7;1)</td><td valign="top">391 (23&#xB7;4)</td><td valign="top">0&#xB7;22</td></tr><tr><td valign="top">&#xA0;C1-2</td><td valign="top">882 (42&#xB7;9)</td><td valign="top">785 (46&#xB7;9)</td><td valign="top">0&#xB7;01</td></tr><tr><td valign="top">RAS blockade</td><td valign="top">1914 (93&#xB7;0)</td><td valign="top">1866 (93&#xB7;8)</td><td valign="top">0&#xB7;30</td></tr><tr><td valign="top">Immunosuppression treatment</td><td valign="top">655 (31&#xB7;8)</td><td valign="top">928 (46&#xB7;7)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">Follow-up time, years, median (IQR)</td><td valign="top">5&#xB7;8 (3&#xB7;7 to 8&#xB7;6)</td><td valign="top">4&#xB7;6 (2&#xB7;5 to 6&#xB7;7)</td><td valign="top">&lt;0&#xB7;001</td></tr><tr><td valign="top">ESKD</td><td valign="top">216 (10&#xB7;5)</td><td valign="top">172 (8&#xB7;6)</td><td valign="top">0&#xB7;05</td></tr></tbody></table><table-wrap-foot><fn><p>Values are numbers (percentages) unless stated otherwise. SBP, systolic blood pressure; DBP, diastolic blood pressure; MAP, mean arterial pressure; eGFR, estimated glomerular filtration rate; RAS, renin-angiotensin system; ESKD, end-stage kidney disease.</p></fn></table-wrap-foot></table-wrap></p>
+        <p id="para0032">In the derivation cohort, 857 (41.7%) patients had a follow-up less than 5 years, and the median number of follow-up measurements was 13 (IQR, 8 to 20). The slope of the eGFR in the follow-up period was &#x2212;2&#xB7;52 (SD, 9&#xB7;12) mL/min/1.73 m<sup>2</sup> per year. Blood pressure was well controlled during the follow-up time; the time-averaged mean arterial pressure value was 94&#xB7;6 (SD, 9&#xB7;5) mmHg (126&#xB7;8 [12&#xB7;9]/78.3 [<xref rid="bib0008" ref-type="bibr">8</xref>,<xref rid="bib0009" ref-type="bibr">9</xref>] mmHg). The median time-averaged proteinuria was 0&#xB7;7 (IQR, 0&#xB7;4 to 1&#xB7;1) g/24 hr. Overall, the median number of serum creatinine, proteinuria, and blood pressure measurements were 13 (IQR, 8 to 20), 13 (8 to 19), and 10 (6 to 16), respectively.</p>
+        <p id="para0033">The partitioning results are organised in a partitioning tree in <xref rid="fig0002" ref-type="fig">Fig. 2</xref>, where each node in the tree represents a patient subgroup satisfying the conditions shown on the branches. The IS benefits for patients in each subgroup, as stratified by the partitioning tree, are shown in <xref rid="tbl0002" ref-type="table">Table 2</xref>. Six features were selected as splitting factors, including serum creatinine (SCr), urine protein, serum albumin (ALB), hypertension, diastolic blood pressure (DBP), and C in the Oxford Classification, contributing to 15 nodes (including internal nodes and leaf nodes). Five subgroups were identified as having a significant long-term treatment benefit at a significance level of 0&#xB7;05: nodes 6, 8, and 12 had a decreased hazard of ESKD and nodes 11 and 15 had an increased hazard of ESKD.<fig id="fig0002"><label>Fig. 2</label><caption><p><bold>Model-based recursive partitioning results</bold>.</p><p>Partitioning results are organised as a model-based recursive partitioning tree, where upper level nodes are split into child nodes based on certain branching criteria, thus form subgroups. Summary statistics of the nodes and branching criteria are included in the model-based recursive partitioning tree. Summary statistics of each node are shown in a grey box, which includes the node name, node size (number of patients in the node), and the hazard ratio (HR, with 95% confidence interval) for immunosuppression treatment after adjusting for confounding variables. The partitioning variable for each branching criterion is shown in a white box, with the criteria shown on the line connecting a parent node and its child node.</p><p>HR, hazard ratio; Oxford_C, presence of crescent (C1: present in at least 1 glomerulus; C2: present in &gt; 25% of glomeruli); DBP, diastolic blood pressure.</p></caption><alt-text id="alt0002">Fig 2</alt-text><graphic xlink:href="gr2"/></fig><table-wrap position="float" id="tbl0002"><label>Table 2</label><caption><p>Immunosuppression long-term benefits comparison for patients in each subgroup stratified by model-based recursive partitioning in the derivation cohort.</p></caption><alt-text id="alt0005">Table 2</alt-text><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2" valign="top">Node</th><th align="left" rowspan="2" valign="top">Size<xref rid="tb2fn1" ref-type="table-fn">a</xref></th><th colspan="4" align="center" valign="top">Unadjusted<hr/></th><th colspan="4" align="center" valign="top">Adjusted<xref rid="tb2fn2" ref-type="table-fn">b</xref><hr/></th></tr><tr><th valign="top">coefficient</th><th valign="top">HR</th><th valign="top">95% CI</th><th valign="top"><italic>P</italic> Value</th><th valign="top">coefficient</th><th valign="top">HR</th><th valign="top">95% CI</th><th valign="top"><italic>P</italic> Value</th></tr></thead><tbody><tr><td valign="top">1</td><td valign="top">2058</td><td valign="top">0&#xB7;06</td><td valign="top">1&#xB7;06</td><td valign="top">0&#xB7;79 to 1&#xB7;42</td><td valign="top">0&#xB7;69</td><td valign="top">&#x2212;0&#xB7;15</td><td valign="top">0&#xB7;86</td><td valign="top">0&#xB7;62 to 1&#xB7;20</td><td valign="top">0&#xB7;37</td></tr><tr><td valign="top">2</td><td valign="top">1730</td><td valign="top">0&#xB7;10</td><td valign="top">1&#xB7;11</td><td valign="top">0&#xB7;74 to 1&#xB7;66</td><td valign="top">0&#xB7;61</td><td valign="top">&#x2212;0&#xB7;45</td><td valign="top">0&#xB7;63</td><td valign="top">0&#xB7;40 to 1&#xB7;01</td><td valign="top">0&#xB7;06</td></tr><tr><td valign="top">3</td><td valign="top">1184</td><td valign="top">0&#xB7;19</td><td valign="top">1&#xB7;21</td><td valign="top">0&#xB7;60 to 2&#xB7;44</td><td valign="top">0&#xB7;59</td><td valign="top">0&#xB7;08</td><td valign="top">1&#xB7;08</td><td valign="top">0&#xB7;50 to 2&#xB7;30</td><td valign="top">0&#xB7;85</td></tr><tr><td valign="top">4</td><td valign="top">728</td><td valign="top">&#x2212;0&#xB7;17</td><td valign="top">0&#xB7;85</td><td valign="top">0&#xB7;23 to 3&#xB7;08</td><td valign="top">0&#xB7;80</td><td valign="top">&#x2212;0&#xB7;22</td><td valign="top">0&#xB7;80</td><td valign="top">0&#xB7;20 to 3&#xB7;16</td><td valign="top">0&#xB7;76</td></tr><tr><td valign="top">5</td><td valign="top">456</td><td valign="top">0&#xB7;39</td><td valign="top">1&#xB7;48</td><td valign="top">0&#xB7;64 to 3&#xB7;41</td><td valign="top">0&#xB7;36</td><td valign="top">0&#xB7;14</td><td valign="top">1&#xB7;15</td><td valign="top">0&#xB7;45 to 2&#xB7;95</td><td valign="top">0&#xB7;77</td></tr><tr><td valign="top">6</td><td valign="top">546</td><td valign="top">&#x2212;0&#xB7;39</td><td valign="top">0&#xB7;68</td><td valign="top">0&#xB7;41 to 1&#xB7;12</td><td valign="top">0&#xB7;13</td><td valign="top">&#x2212;0&#xB7;68</td><td valign="top">0&#xB7;50</td><td valign="top">0&#xB7;29 to 0&#xB7;89</td><td valign="top">0&#xB7;02</td></tr><tr><td valign="top">7</td><td valign="top">306</td><td valign="top">0&#xB7;31</td><td valign="top">1&#xB7;36</td><td valign="top">0&#xB7;68 to 2&#xB7;74</td><td valign="top">0&#xB7;38</td><td valign="top">0&#xB7;25</td><td valign="top">1&#xB7;28</td><td valign="top">0&#xB7;59 to 2&#xB7;78</td><td valign="top">0&#xB7;53</td></tr><tr><td valign="top">8</td><td valign="top">240</td><td valign="top">&#x2212;1&#xB7;29</td><td valign="top">0&#xB7;27</td><td valign="top">0&#xB7;13 to 0&#xB7;57</td><td valign="top">&lt;0&#xB7;001</td><td valign="top">&#x2212;1&#xB7;46</td><td valign="top">0&#xB7;23</td><td valign="top">0&#xB7;11 to 0&#xB7;50</td><td valign="top">&lt; 0&#xB7;001</td></tr><tr><td valign="top">9</td><td valign="top">328</td><td valign="top">0&#xB7;04</td><td valign="top">1&#xB7;05</td><td valign="top">0&#xB7;69 to 1&#xB7;59</td><td valign="top">0&#xB7;83</td><td valign="top">0&#xB7;07</td><td valign="top">1&#xB7;08</td><td valign="top">0&#xB7;67 to 1&#xB7;72</td><td valign="top">0&#xB7;76</td></tr><tr><td valign="top">10</td><td valign="top">105</td><td valign="top">&#x2212;0&#xB7;83</td><td valign="top">0&#xB7;44</td><td valign="top">0&#xB7;23 to 0&#xB7;85</td><td valign="top">0&#xB7;01</td><td valign="top">&#x2212;0&#xB7;17</td><td valign="top">0&#xB7;84</td><td valign="top">0&#xB7;37 to 1&#xB7;95</td><td valign="top">0&#xB7;69</td></tr><tr><td valign="top">11</td><td valign="top">51</td><td valign="top">0&#xB7;06</td><td valign="top">1&#xB7;06</td><td valign="top">0&#xB7;39 to 2&#xB7;90</td><td valign="top">0&#xB7;91</td><td valign="top">1&#xB7;56</td><td valign="top">4&#xB7;78</td><td valign="top">1&#xB7;19 to 19&#xB7;24</td><td valign="top">0&#xB7;03</td></tr><tr><td valign="top">12</td><td valign="top">54</td><td valign="top">&#x2212;1&#xB7;58</td><td valign="top">0&#xB7;21</td><td valign="top">0&#xB7;08 to 0&#xB7;55</td><td valign="top">&lt; 0&#xB7;001</td><td valign="top">&#x2212;1&#xB7;24</td><td valign="top">0&#xB7;29</td><td valign="top">0&#xB7;09 to 0&#xB7;94</td><td valign="top">0&#xB7;04</td></tr><tr><td valign="top">13</td><td valign="top">223</td><td valign="top">0&#xB7;47</td><td valign="top">1&#xB7;59</td><td valign="top">0&#xB7;92 to 2&#xB7;77</td><td valign="top">0&#xB7;10</td><td valign="top">0&#xB7;41</td><td valign="top">1&#xB7;50</td><td valign="top">0&#xB7;86 to 2&#xB7;63</td><td valign="top">0&#xB7;16</td></tr><tr><td valign="top">14</td><td valign="top">99</td><td valign="top">&#x2212;0&#xB7;12</td><td valign="top">0&#xB7;88</td><td valign="top">0&#xB7;37 to 2&#xB7;12</td><td valign="top">0&#xB7;78</td><td valign="top">&#x2212;0&#xB7;13</td><td valign="top">0&#xB7;88</td><td valign="top">0&#xB7;37 to 2&#xB7;12</td><td valign="top">0&#xB7;78</td></tr><tr><td valign="top">15</td><td valign="top">124</td><td valign="top">1&#xB7;04</td><td valign="top">2&#xB7;82</td><td valign="top">1&#xB7;37 to 5&#xB7;83</td><td valign="top">&lt; 0&#xB7;001</td><td valign="top">0&#xB7;94</td><td valign="top">2&#xB7;56</td><td valign="top">1&#xB7;23 to 5&#xB7;33</td><td valign="top">0&#xB7;01</td></tr></tbody></table><table-wrap-foot><fn><p>HR, hazard ratio; CI, confidence interval.</p></fn></table-wrap-foot><table-wrap-foot><fn id="tb2fn1"><label>a</label><p id="notep0004">Node size means number of patients in this node.</p></fn></table-wrap-foot><table-wrap-foot><fn id="tb2fn2"><label>b</label><p id="notep0005">Adjusted by confounding variables.</p></fn></table-wrap-foot></table-wrap></p>
+        <p id="para0034">Node 6, consisting of 546 patients, was characterised by having SCr &#x2264;1&#xB7;437&#xA0;mg/dl and proteinuria &gt;1&#xB7;525&#xA0;g/24 hr. In this group, IS was associated with favourable kidney survival (adjusted HR&#xA0;=&#xA0;0&#xB7;50; 95% CI, 0&#xB7;29 to 0&#xB7;89; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;02). The benefits of IS were higher when patients had proteinuria &gt; 2&#xB7;480&#xA0;g/24 hr (node 8), with an adjusted HR of 0&#xB7;23 (95% CI, 0&#xB7;11 to 0&#xB7;50; <italic>P</italic> &lt; 0&#xB7;001). Therefore, the IS benefits increased with a higher level of proteinuria when patients had SCr &#x2264;1&#xB7;437&#xA0;mg/dl.</p>
+        <p id="para0035">Of the patients with SCr &gt; 1.437&#xA0;mg/dl, IS was associated with better outcome in node 12 (adjusted HR=0&#xB7;29; 95% CI, 0&#xB7;09 to 0&#xB7;94; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;04), which consisted of 54 patients and was characterised by SCr &gt; 1&#xB7;437&#xA0;mg/dl, ALB &#x2264; 35&#xB7;95&#xA0;g/L, and <italic>C</italic> &gt; 0. Differing from node 12 only by crescent formation, node 11, a subgroup of 51 patients characterised by SCr &gt; 1&#xB7;437&#xA0;mg / dl, ALB &#x2264; 35&#xB7;95&#xA0;g / L and <italic>C</italic>&#xA0;=&#xA0;0, showed a lack of benefits from IS therapy (adjusted HR&#xA0;=&#xA0;4&#xB7;78; 95% CI,1&#xB7;19 to 19&#xB7;24; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;03). Patients with SCr &gt;1&#xB7;437&#xA0;mg/dl, ALB &gt;35&#xB7;95&#xA0;g/L and DBP &gt;83&#xA0;mmHg (node 15) also demonstrated a lack of IS benefits (adjusted HR&#xA0;=&#xA0;2&#xB7;56; 95% CI, 1&#xB7;23 to 5&#xB7;33; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;01). In other nodes in the partitioning tree, the adjusted IS benefits were not significant. Using the IPTW-adjusted Kaplan-Meier estimator, the adjusted survival curve without ESKD during follow-up was also better in the IS treatment group in three benefit nodes (node 6, node 8, and node 12) (<xref rid="fig0003" ref-type="fig">Fig. 3</xref>) but not in other nodes (Fig. S1).<fig id="fig0003"><label>Fig. 3</label><caption><p><bold>IPTW-adjusted Kaplan-Meier curves without end-stage kidney disease according to immunosuppression treatment in benefit nodes</bold>.</p><p>Inverse probability of treatment weighting (IPTW)-adjusted Kaplan-Meier curves without end-stage kidney disease according to immunosuppression treatment in benefit nodes including node 6 (a; adjusted log-rank test <italic>P</italic>&#xA0;=&#xA0;0&#xB7;01), node 8 (b; adjusted log-rank test <italic>P</italic>&#xA0;=&#xA0;0&#xB7;007), and node 12 (c; adjusted log-rank test <italic>P</italic>&#xA0;=&#xA0;0&#xB7;007), which were stratified by model-based recursive partitioning; comparisons of curves were conducted by the adjusted log-rank test. The risk table below each figure shows the crude number of patients at risk (without adjustment of weights). IS, immunosuppression.</p></caption><alt-text id="alt0003">Fig 3</alt-text><graphic xlink:href="gr3"/></fig></p>
+        <p id="para0036">Using the entire derivation cohort as a control, we compared its clinical and pathological characteristics to those in the subgroups with significant benefit including node 6 (<italic>n</italic>&#xA0;=&#xA0;546), node 8 (<italic>n</italic>&#xA0;=&#xA0;240), and node 12 (<italic>n</italic>&#xA0;=&#xA0;54) (Table S4) and to those in subgroups lacking benefit, including node 11 (<italic>n</italic>&#xA0;=&#xA0;51) and node 15 (<italic>n</italic>&#xA0;=&#xA0;124) (Table S5).</p>
+        <p id="para0037">Sensitivity analyses were performed to assess the robustness of the findings using different imputation methods (Fig. S2 for relative node size, and Fig. S3 and Table S6 for IS treatment benefits), and the results from the benefit nodes were consistent with our findings. The long-term benefits were also internally validated using a bootstrap analysis, where the same treatment benefits were observed in each of the benefit nodes (Fig. S4). We also validated our results in various secondary outcomes (Table S7-S9), IS treatment reduces risk of all three secondary outcomes (30%, 40% and 50% decline in eGFR) in the benefit subgroups (node 6, 8 and 12), providing indirect evidence to our conclusions.</p>
+      </sec>
+      <sec id="sec0016">
+        <label>3.2</label>
+        <title>Validation analysis</title>
+        <p id="para0038">There were 3734 patients in the combined CRPIGA cohort and NRG cohort II (from July 2009 to June 2011), of whom 1989 met the inclusion criteria and were included in the external validation cohort (<xref rid="fig0001" ref-type="fig">Fig. 1</xref>), whose characteristics are shown in <xref rid="tbl0001" ref-type="table">Table 1</xref>. The differences in characteristics between patients treated with IS and those without in the validation cohort are shown in Table S10.</p>
+        <p id="para0039">The external validation results were highly consistent with findings from the derivation analysis. In the validation cohort, significant long-term treatment benefits were observed in the same significant benefit subgroups (<xref rid="tbl0003" ref-type="table">Table 3</xref> and Fig. S5). In node 6, which consisted of 569 patients, IS was associated with favourable kidney survival (adjusted HR&#xA0;=&#xA0;0&#xB7;44; 95% CI, 0&#xB7;19 to 0&#xB7;99; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;04). The benefits of IS were higher in patients in node 8, with an adjusted HR of 0&#xB7;24 (95% CI, 0&#xB7;09 to 0&#xB7;66; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;006). IS was also associated with better outcome in node 12 (adjusted HR&#xA0;=&#xA0;0&#xB7;53; 95% CI, 0&#xB7;32 to 0&#xB7;90; <italic>P</italic>&#xA0;=&#xA0;0&#xB7;02), which consisted of 75 patients.<table-wrap position="float" id="tbl0003"><label>Table 3</label><caption><p>Immunosuppression long-term benefits validation for patients in each subgroup stratified by model-based recursive partitioning in the validation cohort.</p></caption><alt-text id="alt0006">Table 3</alt-text><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2" valign="top">Node</th><th align="left" rowspan="2" valign="top">Size<xref rid="tb3fn1" ref-type="table-fn">a</xref></th><th colspan="4" align="center" valign="top">Unadjusted<hr/></th><th colspan="4" align="center" valign="top">Adjusted<xref rid="tb3fn2" ref-type="table-fn">b</xref><hr/></th></tr><tr><th valign="top">coefficient</th><th valign="top">HR</th><th valign="top">95% CI</th><th valign="top"><italic>P</italic> Value</th><th valign="top">coefficient</th><th valign="top">HR</th><th valign="top">95% CI</th><th valign="top"><italic>P</italic> Value</th></tr></thead><tbody><tr><td valign="top">1</td><td valign="top">1989</td><td valign="top">0&#xB7;03</td><td valign="top">1&#xB7;03</td><td valign="top">0&#xB7;76 to 1&#xB7;40</td><td valign="top">0&#xB7;83</td><td valign="top">&#x2212;0&#xB7;23</td><td valign="top">0&#xB7;79</td><td valign="top">0&#xB7;58 to 1&#xB7;09</td><td valign="top">0&#xB7;15</td></tr><tr><td valign="top">2</td><td valign="top">1645</td><td valign="top">&#x2212;0&#xB7;43</td><td valign="top">0&#xB7;65</td><td valign="top">0&#xB7;38 to 1&#xB7;12</td><td valign="top">0&#xB7;12</td><td valign="top">&#x2212;0&#xB7;54</td><td valign="top">0&#xB7;58</td><td valign="top">0&#xB7;33 to 1&#xB7;02</td><td valign="top">0&#xB7;06</td></tr><tr><td valign="top">3</td><td valign="top">1076</td><td valign="top">&#x2212;0&#xB7;24</td><td valign="top">0&#xB7;78</td><td valign="top">0&#xB7;37 to 1&#xB7;68</td><td valign="top">0&#xB7;53</td><td valign="top">&#x2212;0&#xB7;16</td><td valign="top">0&#xB7;85</td><td valign="top">0&#xB7;39 to 1&#xB7;87</td><td valign="top">0&#xB7;69</td></tr><tr><td valign="top">4</td><td valign="top">836</td><td valign="top">&#x2212;0&#xB7;37</td><td valign="top">0&#xB7;69</td><td valign="top">0&#xB7;28 to 1&#xB7;68</td><td valign="top">0&#xB7;43</td><td valign="top">&#x2212;0&#xB7;25</td><td valign="top">0&#xB7;78</td><td valign="top">0&#xB7;31 to 1&#xB7;96</td><td valign="top">0&#xB7;60</td></tr><tr><td valign="top">5</td><td valign="top">237</td><td valign="top">0&#xB7;01</td><td valign="top">1&#xB7;01</td><td valign="top">0&#xB7;49 to 2&#xB7;11</td><td valign="top">0&#xB7;97</td><td valign="top">&#x2212;0&#xB7;03</td><td valign="top">0&#xB7;97</td><td valign="top">0&#xB7;28 to 3&#xB7;38</td><td valign="top">0&#xB7;97</td></tr><tr><td valign="top">6</td><td valign="top">569</td><td valign="top">&#x2212;0&#xB7;83</td><td valign="top">0&#xB7;43</td><td valign="top">0&#xB7;20 to 0&#xB7;95</td><td valign="top">0&#xB7;04</td><td valign="top">&#x2212;0&#xB7;83</td><td valign="top">0&#xB7;44</td><td valign="top">0&#xB7;19 to 0&#xB7;99</td><td valign="top">0&#xB7;04</td></tr><tr><td valign="top">7</td><td valign="top">263</td><td valign="top">&#x2212;0&#xB7;01</td><td valign="top">0&#xB7;99</td><td valign="top">0&#xB7;28 to 3&#xB7;51</td><td valign="top">0&#xB7;99</td><td valign="top">&#x2212;0&#xB7;14</td><td valign="top">0&#xB7;87</td><td valign="top">0&#xB7;22 to 3&#xB7;44</td><td valign="top">0&#xB7;84</td></tr><tr><td valign="top">8</td><td valign="top">306</td><td valign="top">&#x2212;1&#xB7;55</td><td valign="top">0&#xB7;21</td><td valign="top">0&#xB7;08 to 0&#xB7;58</td><td valign="top">0&#xB7;002</td><td valign="top">&#x2212;1&#xB7;44</td><td valign="top">0&#xB7;24</td><td valign="top">0&#xB7;09 to 0&#xB7;66</td><td valign="top">0&#xB7;006</td></tr><tr><td valign="top">9</td><td valign="top">344</td><td valign="top">0&#xB7;16</td><td valign="top">1&#xB7;18</td><td valign="top">0&#xB7;80 to 1&#xB7;73</td><td valign="top">0&#xB7;41</td><td valign="top">0&#xB7;02</td><td valign="top">1&#xB7;02</td><td valign="top">0&#xB7;69 to 1&#xB7;51</td><td valign="top">0&#xB7;93</td></tr><tr><td valign="top">10</td><td valign="top">131</td><td valign="top">&#x2212;0&#xB7;24</td><td valign="top">0&#xB7;79</td><td valign="top">0&#xB7;44 to 1&#xB7;39</td><td valign="top">0&#xB7;41</td><td valign="top">&#x2212;0&#xB7;33</td><td valign="top">0&#xB7;72</td><td valign="top">0&#xB7;40 to 1&#xB7;28</td><td valign="top">0&#xB7;26</td></tr><tr><td valign="top">11</td><td valign="top">28</td><td valign="top">0&#xB7;16</td><td valign="top">1&#xB7;17</td><td valign="top">0&#xB7;37 to 3&#xB7;74</td><td valign="top">0&#xB7;79</td><td valign="top">0&#xB7;15</td><td valign="top">1&#xB7;16</td><td valign="top">0&#xB7;36 to 3&#xB7;70</td><td valign="top">0&#xB7;80</td></tr><tr><td valign="top">12</td><td valign="top">75</td><td valign="top">&#x2212;0&#xB7;58</td><td valign="top">0&#xB7;56</td><td valign="top">0&#xB7;32 to 0&#xB7;97</td><td valign="top">0&#xB7;04</td><td valign="top">&#x2212;0&#xB7;63</td><td valign="top">0&#xB7;53</td><td valign="top">0&#xB7;32 to 0&#xB7;90</td><td valign="top">0&#xB7;02</td></tr><tr><td valign="top">13</td><td valign="top">192</td><td valign="top">0&#xB7;13</td><td valign="top">1&#xB7;14</td><td valign="top">0&#xB7;64 to 2&#xB7;03</td><td valign="top">0&#xB7;65</td><td valign="top">0&#xB7;05</td><td valign="top">1&#xB7;06</td><td valign="top">0&#xB7;59 to 1&#xB7;90</td><td valign="top">0&#xB7;86</td></tr><tr><td valign="top">14</td><td valign="top">95</td><td valign="top">0&#xB7;23</td><td valign="top">1&#xB7;26</td><td valign="top">0&#xB7;52 to 3&#xB7;06</td><td valign="top">0&#xB7;61</td><td valign="top">0&#xB7;14</td><td valign="top">1&#xB7;15</td><td valign="top">0&#xB7;45 to 2&#xB7;91</td><td valign="top">0&#xB7;77</td></tr><tr><td valign="top">15</td><td valign="top">97</td><td valign="top">0&#xB7;09</td><td valign="top">1&#xB7;1</td><td valign="top">0&#xB7;50 to 2&#xB7;42</td><td valign="top">0&#xB7;82</td><td valign="top">0&#xB7;07</td><td valign="top">1&#xB7;07</td><td valign="top">0&#xB7;48 to 2&#xB7;38</td><td valign="top">0&#xB7;87</td></tr></tbody></table><table-wrap-foot><fn><p>HR, hazard ratio; CI, confidence interval.</p></fn></table-wrap-foot><table-wrap-foot><fn id="tb3fn1"><label>a</label><p id="notep0007">Node size means number of patients in this node.</p></fn></table-wrap-foot><table-wrap-foot><fn id="tb3fn2"><label>b</label><p id="notep0008">Adjusted by confounding variables.</p></fn></table-wrap-foot></table-wrap></p>
+      </sec>
+    </sec>
+    <sec id="sec0017">
+      <label>4</label>
+      <title>Discussion</title>
+      <p id="para0040">In clinical practice, which IgAN patients should be treated with IS therapy and how to choose them rationally and objectively remains unclear. The treatment strategies for patients with IgAN are mainly based on the categorisation of proteinuria and renal function <xref rid="bib0019" ref-type="bibr">[19]</xref>, which clearly has several limitations in this highly heterogeneous disease. A previous study <xref rid="bib0017" ref-type="bibr">[17]</xref> verified that corticosteroid benefits were associated with proteinuria levels and renal function status in IgAN patients, and a recent prospective multi-centre RCT <xref rid="bib0011" ref-type="bibr">[11]</xref> validated that IgAN patients with active proliferative lesions had a good response to IS therapy. Repeat-biopsy also revealed that active lesions were reversed after IS therapy. The above results suggest that comprehensive consideration of clinical indicators and renal pathological changes may provide better instruction for choosing which IgAN patients to treat with IS therapy.</p>
+      <p id="para0041">A large national cohort of 4047 IgAN patients with a broad spectrum of clinical and pathological data was collected in this study. Using model-based recursive partitioning for grouping, using the real-world decisive kidney outcome ESKD as the objective endpoint, and adjusting for a variety of confounding factors in the evaluation of long-term treatment benefits, we identified and externally validated patient subgroups who may potentially benefit from IS therapy. The benefits of IS increased with elevated proteinuria in patients with stable renal function (SCr &#x2264;1&#xB7;437&#xA0;mg/dl). Of the patients with impaired renal function (SCr &gt;1&#xB7;437&#xA0;mg/dl), those with high proteinuria and crescent formation in their renal tissue obtained significant IS benefits and favourable kidney outcome.</p>
+      <p id="para0042">The machine learning method can automatically divide patients into subgroups of different treatment responses based on relevant characteristics, thus reducing bias due to subjective human experience and resulting in more objective groups. The merits of our model-based recursive partitioning approach also include: (1) modelling higher-order interactions among covariates in a real world setting; (2) using a hypothesis-free data-driven approach to reduce bias and discover novel factors or interactions; and (3) employing statistical tests as partitioning criteria for continuous variables to reduce human impact (and thus minimizing the bias introduced) in the selection of cut-off values. Through this data-driven machine learning approach, nephrologists can decide on treatment based on the combination of clinical and pathological features in addition to the categorisation of clinical features <xref rid="bib0019" ref-type="bibr">[19]</xref> and may obtain a more individualised treatment plan for IgAN patients.</p>
+      <p id="para0043">Proteinuria is a strong risk factor for poor prognosis that has been widely recognised in IgAN patients [<xref rid="bib0005" ref-type="bibr">5</xref>,<xref rid="bib0032" ref-type="bibr">32</xref>]. The VALIGA study <xref rid="bib0017" ref-type="bibr">[17]</xref> suggested a graded benefit of corticosteroids according to proteinuria level, but the 1&#x2013;3&#xA0;g/24 h category remains a &#x201C;grey zone.&#x201D; Proteinuria alone is insufficient for grouping patients; thus, many studies incorporated renal function with proteinuria. A secondary investigation of the STOP-IgAN study <xref rid="bib0033" ref-type="bibr">[33]</xref> concluded that corticosteroids reduced proteinuria in IgAN patients with relatively well-preserved eGFR (&gt;60&#xA0;ml/min/1&#xB7;73 m<sup>2</sup>), neither IS prevented eGFR loss in patients with lower baseline GFR (eGFR &#x2264; 60&#xA0;ml/min/1&#xB7;73 m<sup>2</sup>) even though they had high proteinuria. This result indicated that renal function status is also one of the important determinators of the response to IS in patients with IgAN. The influence of histological lesions on the above IS effect was hard to assess because these studies did not include renal pathology data. Coppo <xref rid="bib0034" ref-type="bibr">[34]</xref> summarised that IS treatment success occurred mostly in individuals who were highly proteinuric with better renal function. Most of these previous studies grouped patients to evaluate IS response based on cut-off values set empirically. Automatic detection of the subgroups that benefitted from IS and were associated with reduced real-world decisive kidney outcome (ESKD) and optimal cut-off values was fulfilled in this paper, making the results more robust and objective.</p>
+      <p id="para0044">Proteinuria can be caused by active glomerular lesions or chronic lesions, including glomerular sclerosis and tubular atrophy/interstitial fibrosis <xref rid="bib0035" ref-type="bibr">[35]</xref>, which are difficult to distinguish, although the degree of proteinuria can provide some clue. In this study, kidney biopsies were scored according to the Oxford Classification <xref rid="bib0022" ref-type="bibr">[22]</xref> and active (cellular and/or fibrocellular) crescents, but not fibro crescents were included. Theoretically, active lesions require aggressive IS therapy, but severe chronic lesions do not [<xref rid="bib0020" ref-type="bibr">20</xref>,<xref rid="bib0036" ref-type="bibr">36</xref>,<xref rid="bib0037" ref-type="bibr">37</xref>]. However, doctors are not capable of identifying the specific type of lesions through proteinuria and SCr alone, and the combination with renal pathologic features can offer a more comprehensive evaluation, which is extremely important for guiding treatment [<xref rid="bib0004" ref-type="bibr">4</xref>,<xref rid="bib0034" ref-type="bibr">34</xref>]. In our study, nodes 11 and 12 were both proteinuric subgroups with impaired renal function but they displayed completely opposite responses to IS, which were parallel to their different pathological changes. Both subgroups had severe tubulointerstitial lesions, but node 12 had more active lesions (endocapillary hypercellularity and crescent formation) than the entire cohort, and node 12 showed a better IS therapy benefits than node 11. An international multi-centre study also supported that crescent lesions might be an indicator for IS therapy in patients with IgAN <xref rid="bib0038" ref-type="bibr">[38]</xref>. Therefore, in patients with impaired renal function, in addition to proteinuria and Scr, the histological features of the renal lesions can provide useful information to evaluate the long-term benefits of IS. ALB and DBP were included in many risk prediction models and were reported to be strongly associated with kidney outcomes in patients with IgAN [<xref rid="bib0006" ref-type="bibr">6</xref>,<xref rid="bib0039" ref-type="bibr">39</xref>,<xref rid="bib0040" ref-type="bibr">40</xref>]. In our analysis, ALB and DBP were also identified as variables associated with long-term benefits of IS therapy.</p>
+      <p id="para0045">Nodes 6 and 8 had relatively well-preserved renal function and marked proteinuria with advanced proliferative histological lesions (mesangial and endocapillary proliferative lesions and crescent formation). In contrast to the entire cohort, the patients in these two subgroups had less glomerular sclerosis and fewer tubulointerstitial lesions. Therefore, the IS benefits seen in these subgroups were expected.</p>
+      <p id="para0046">The strengths of the study include: (1) the large, national and multi-centre IgAN cohort; (2) external validation of the results; (3) the employment of a &#x201C;hard outcome&#x201D;, ESKD, as the study endpoint; (4) the first use of a combination of potential clinical and pathological features for patient grouping; (5) automated identification of subgroups benefitting from IS and high-order interactions between features using a more objective machine learning approach; (6) detailed covariate data that enabled comprehensive multivariate adjustment; and (7) multiple sensitivity analyses that support the robustness of the primary results. Additionally, RASBs were applied in the majority of patients in both the IS-treated and untreated groups, which shows the benefit of IS therapy in addition to RASB therapy. This study also had limitations. First, we were prevented from drawing causal conclusions due to the observational nature of this study. Although we adjusted for potential confounders, unobserved confounders may exist; randomised trials are needed to further support our findings. Second, the conclusions of this study were established on the basis of data acquired from a Chinese population, and the applicability of the results to other ethnic groups and regions still needs to be verified.</p>
+      <p id="para0047">This study was the first to identify and externally validate the potential subgroups of IgAN patients benefiting from IS therapy, as indicated by a reduction in a real-world decisive kidney outcome (ESKD), using machine learning method and comprehensively analysing renal function, proteinuria and histological lesions. While the findings of the study should be confirmed in future randomised trials because retrospective analyses alone are not sufficient to determine the treatment choice for patients with IgAN, and the potential adverse effects of IS should not be ignored, this study shed light on individualised therapy in IgAN.</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>Declaration of Competing Interest</title>
+      <p id="para0049">The authors declare that they have no competing interests.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="cebibl1">
+      <title>References</title>
+      <ref id="bib0001">
+        <label>1</label>
+        <element-citation publication-type="journal" id="sbref0001">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>H.X.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>M.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Changes in the spectrum of kidney diseases: an analysis of 40,759 biopsy-proven cases from 2003 to 2014 in China</article-title>
+          <source>Kidney Dis (Basel)</source>
+          <volume>4</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>10</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">29594138</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0002">
+        <label>2</label>
+        <element-citation publication-type="journal" id="sbref0002">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Magistroni</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>D'Agati</surname>
+              <given-names>V.D.</given-names>
+            </name>
+            <name>
+              <surname>Appel</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Kiryluk</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>New developments in the genetics, pathogenesis, and therapy of IgA nephropathy</article-title>
+          <source>Kidney Int</source>
+          <volume>88</volume>
+          <issue>5</issue>
+          <year>2015</year>
+          <fpage>974</fpage>
+          <lpage>989</lpage>
+          <pub-id pub-id-type="pmid">26376134</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0003">
+        <label>3</label>
+        <element-citation publication-type="journal" id="sbref0003">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holdsworth</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Kitching</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Immune-mediated kidney disease in 2017: progress in mechanisms and therapy for immunological kidney disease</article-title>
+          <source>Nat Rev Nephrol</source>
+          <volume>14</volume>
+          <issue>2</issue>
+          <year>2018</year>
+          <fpage>76</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="pmid">29292371</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0004">
+        <label>4</label>
+        <element-citation publication-type="journal" id="sbref0004">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rodrigues</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Reich</surname>
+              <given-names>H.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>IgA nephropathy</article-title>
+          <source>Clin J Am Soc Nephrol</source>
+          <volume>12</volume>
+          <issue>4</issue>
+          <year>2017</year>
+          <fpage>677</fpage>
+          <lpage>686</lpage>
+          <pub-id pub-id-type="pmid">28159829</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0005">
+        <label>5</label>
+        <element-citation publication-type="journal" id="sbref0005">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term renal survival and related risk factors in patients with IgA nephropathy: results from a cohort of 1155 cases in a Chinese adult population</article-title>
+          <source>Nephrol Dial Transplant</source>
+          <volume>27</volume>
+          <issue>4</issue>
+          <year>2012</year>
+          <fpage>1479</fpage>
+          <lpage>1485</lpage>
+          <pub-id pub-id-type="pmid">21965586</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0006">
+        <label>6</label>
+        <element-citation publication-type="journal" id="sbref0006">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wakai</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kawamura</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ando</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Endoh</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tomino</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>A scoring system to predict renal outcome in IgA nephropathy: a nationwide 10-year prospective cohort study</article-title>
+          <source>Nephrol Dial Transplant</source>
+          <volume>24</volume>
+          <issue>10</issue>
+          <year>2009</year>
+          <fpage>3068</fpage>
+          <lpage>3074</lpage>
+          <pub-id pub-id-type="pmid">19515800</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0007">
+        <label>7</label>
+        <element-citation publication-type="journal" id="sbref0007">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rauen</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Eitner</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fitzner</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Intensive supportive care plus immunosuppression in IgA nephropathy</article-title>
+          <source>N Engl J Med</source>
+          <volume>373</volume>
+          <issue>23</issue>
+          <year>2015</year>
+          <fpage>2225</fpage>
+          <lpage>2236</lpage>
+          <pub-id pub-id-type="pmid">26630142</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0008">
+        <label>8</label>
+        <element-citation publication-type="journal" id="sbref0008">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lv</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>M.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of oral methylprednisolone on clinical outcomes in patients with IgA nephropathy: the testing randomized clinical trial</article-title>
+          <source>JAMA</source>
+          <volume>318</volume>
+          <issue>5</issue>
+          <year>2017</year>
+          <fpage>432</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="pmid">28763548</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0009">
+        <label>9</label>
+        <element-citation publication-type="journal" id="sbref0009">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schena</surname>
+              <given-names>F.P.</given-names>
+            </name>
+            <name>
+              <surname>Manno</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Intensive supportive care plus immunosuppression in IgA nephropathy</article-title>
+          <source>N Engl J Med</source>
+          <volume>374</volume>
+          <issue>10</issue>
+          <year>2016</year>
+          <fpage>991</fpage>
+          <lpage>993</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib0010">
+        <label>10</label>
+        <element-citation publication-type="journal" id="sbref0010">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hall</surname>
+              <given-names>Y.N.</given-names>
+            </name>
+            <name>
+              <surname>Himmelfarb</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The CKD classification system in the precision medicine era</article-title>
+          <source>Clin J Am Soc Nephrol</source>
+          <volume>12</volume>
+          <issue>2</issue>
+          <year>2017</year>
+          <fpage>346</fpage>
+          <lpage>348</lpage>
+          <pub-id pub-id-type="pmid">27903598</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0011">
+        <label>11</label>
+        <element-citation publication-type="journal" id="sbref0011">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>W.B.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mycophenolate mofetil combined with prednisone versus full-dose prednisone in IgA nephropathy with active proliferative lesions: a randomized controlled trial</article-title>
+          <source>Am J Kidney Dis</source>
+          <volume>69</volume>
+          <issue>6</issue>
+          <year>2017</year>
+          <fpage>788</fpage>
+          <lpage>795</lpage>
+          <pub-id pub-id-type="pmid">28215945</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0012">
+        <label>12</label>
+        <element-citation publication-type="journal" id="sbref0012">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Strobl</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Malley</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Tutz</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>An introduction to recursive partitioning: rationale, application, and characteristics of classification and regression trees, bagging, and random forests</article-title>
+          <source>Psychol Methods</source>
+          <volume>14</volume>
+          <issue>4</issue>
+          <year>2009</year>
+          <fpage>323</fpage>
+          <lpage>348</lpage>
+          <pub-id pub-id-type="pmid">19968396</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0013">
+        <label>13</label>
+        <element-citation publication-type="journal" id="sbref0013">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Athey</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Imbens</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recursive partitioning for heterogeneous causal effects</article-title>
+          <source>Proc Natl Acad Sci U.S.A.</source>
+          <volume>113</volume>
+          <issue>27</issue>
+          <year>2016</year>
+          <fpage>7353</fpage>
+          <lpage>7360</lpage>
+          <pub-id pub-id-type="pmid">27382149</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0014">
+        <label>14</label>
+        <element-citation publication-type="journal" id="sbref0014">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seibold</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zeileis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hothorn</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Model-based recursive partitioning for subgroup analyses</article-title>
+          <source>Int J Biostat</source>
+          <volume>12</volume>
+          <issue>1</issue>
+          <year>2016</year>
+          <fpage>45</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="pmid">27227717</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0015">
+        <label>15</label>
+        <element-citation publication-type="journal" id="sbref0015">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zeng</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Ni</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>A multicenter application and evaluation of the oxford classification of IgA nephropathy in adult Chinese patients</article-title>
+          <source>Am J Kidney Dis</source>
+          <volume>60</volume>
+          <issue>5</issue>
+          <year>2012</year>
+          <fpage>812</fpage>
+          <lpage>820</lpage>
+          <pub-id pub-id-type="pmid">22819700</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0016">
+        <element-citation publication-type="journal" id="sbref0016">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kidney failure risk prediction equations in IgA nephropathy: a multicenter risk assessment study in Chinese patients</article-title>
+          <source>Am J Kidney Dis</source>
+          <volume>72</volume>
+          <issue>3</issue>
+          <year>2018</year>
+          <fpage>371</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="pmid">29555434</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0017">
+        <label>17</label>
+        <element-citation publication-type="journal" id="sbref0017">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tesar</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Troyanov</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bellur</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Corticosteroids in iga nephropathy: a retrospective analysis from the valiga study</article-title>
+          <source>J Am Soc Nephrol</source>
+          <volume>26</volume>
+          <issue>9</issue>
+          <year>2015</year>
+          <fpage>2248</fpage>
+          <lpage>2258</lpage>
+          <pub-id pub-id-type="pmid">25677392</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0018">
+        <label>18</label>
+        <element-citation publication-type="journal" id="sbref0018">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cattran</surname>
+              <given-names>D.C.</given-names>
+            </name>
+            <name>
+              <surname>Coppo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>H.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The oxford classification of IgA nephropathy: rationale, clinicopathological correlations, and classification</article-title>
+          <source>Kidney Int</source>
+          <volume>76</volume>
+          <issue>5</issue>
+          <year>2009</year>
+          <fpage>534</fpage>
+          <lpage>545</lpage>
+          <pub-id pub-id-type="pmid">19571791</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0019">
+        <label>19</label>
+        <element-citation publication-type="journal" id="sbref0019">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cattran</surname>
+              <given-names>D.C.</given-names>
+            </name>
+            <name>
+              <surname>Feehally</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kidney disease: improving global outcomes (KDIGO) glomerulonephritis work group: kdigo clinical practice guideline for glomerulonephritis</article-title>
+          <source>Kidney Int Suppl</source>
+          <volume>2</volume>
+          <issue>2</issue>
+          <year>2012</year>
+          <fpage>139</fpage>
+          <lpage>274</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib0020">
+        <label>20</label>
+        <element-citation publication-type="journal" id="sbref0020">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>L.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mycophenolate mofetil alleviates persistent proteinuria in IgA nephropathy</article-title>
+          <source>Kidney Int</source>
+          <volume>68</volume>
+          <issue>2</issue>
+          <year>2005</year>
+          <fpage>802</fpage>
+          <lpage>812</lpage>
+          <pub-id pub-id-type="pmid">16014059</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0021">
+        <label>21</label>
+        <element-citation publication-type="journal" id="sbref0021">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>Y.W.</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>K.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term study of mycophenolate mofetil treatment in IgA nephropathy</article-title>
+          <source>Kidney Int</source>
+          <volume>77</volume>
+          <issue>6</issue>
+          <year>2010</year>
+          <fpage>543</fpage>
+          <lpage>549</lpage>
+          <pub-id pub-id-type="pmid">20032964</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0022">
+        <label>22</label>
+        <element-citation publication-type="journal" id="sbref0022">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Trimarchi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Barratt</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cattran</surname>
+              <given-names>D.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxford classification of iga nephropathy 2016: an update from the IgA nephropathy classification working group</article-title>
+          <source>Kidney Int</source>
+          <volume>91</volume>
+          <issue>5</issue>
+          <year>2017</year>
+          <fpage>1014</fpage>
+          <lpage>1021</lpage>
+          <pub-id pub-id-type="pmid">28341274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0023">
+        <label>23</label>
+        <element-citation publication-type="journal" id="sbref0023">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levey</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Inker</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Matsushita</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>GFR decline as an end point for clinical trials in CKD: a scientific workshop sponsored by the national kidney foundation and the us food and drug administration</article-title>
+          <source>Am J Kidney Dis</source>
+          <volume>64</volume>
+          <issue>6</issue>
+          <year>2014</year>
+          <fpage>821</fpage>
+          <lpage>835</lpage>
+          <pub-id pub-id-type="pmid">25441437</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0024">
+        <label>24</label>
+        <element-citation publication-type="journal" id="sbref0024">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seibold</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zeileis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hothorn</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Individual treatment effect prediction for amyotrophic lateral sclerosis patients</article-title>
+          <source>Stat Methods Med Res</source>
+          <volume>27</volume>
+          <issue>10</issue>
+          <year>2017</year>
+          <fpage>3104</fpage>
+          <lpage>3125</lpage>
+          <pub-id pub-id-type="pmid">29298618</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0025">
+        <label>25</label>
+        <element-citation publication-type="journal" id="sbref0025">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torsten Hothorn</surname>
+              <given-names>A.Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Partykit: a modular toolkit for recursive partytioning in r</article-title>
+          <source>J Mach Learn RES</source>
+          <volume>16</volume>
+          <year>2015</year>
+          <fpage>3905</fpage>
+          <lpage>3909</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib0026">
+        <label>26</label>
+        <element-citation publication-type="journal" id="sbref0026">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Little</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Rubin</surname>
+              <given-names>D.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>The central role of the propensity score in observational studies for causal effects</article-title>
+          <source>Annu Rev Public Health</source>
+          <volume>21</volume>
+          <year>2000</year>
+          <fpage>121</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="pmid">10884949</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0027">
+        <label>27</label>
+        <element-citation publication-type="journal" id="sbref0027">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Austin</surname>
+              <given-names>P.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>An introduction to propensity score methods for reducing the effects of confounding in observational studies</article-title>
+          <source>Multivariate Behav Res</source>
+          <volume>46</volume>
+          <issue>3</issue>
+          <year>2011</year>
+          <fpage>399</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="pmid">21818162</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0028">
+        <label>28</label>
+        <element-citation publication-type="book" id="sbref0028">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guo</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Fraser</surname>
+              <given-names>M.W.</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Propensity score analysis</chapter-title>
+          <year>2014</year>
+          <publisher-name>SAGE Publications Inc</publisher-name>
+          <publisher-loc>California, USA</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bib0029">
+        <label>29</label>
+        <element-citation publication-type="journal" id="sbref0029">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cole</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Hern&#xE1;n</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adjusted survival curves with inverse probability weights. computer methods and programs in biomedicine</article-title>
+          <source>Comput Methods Programs Biomed</source>
+          <volume>75</volume>
+          <issue>1</issue>
+          <year>2004</year>
+          <fpage>45</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="pmid">15158046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0030">
+        <label>30</label>
+        <element-citation publication-type="journal" id="sbref0030">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adjusted Kaplan-Meier estimator and log-rank test with inverse probability of treatment weighting for survival data</article-title>
+          <source>Stat Med</source>
+          <volume>24</volume>
+          <issue>20</issue>
+          <year>2005</year>
+          <fpage>3089</fpage>
+          <lpage>3110</lpage>
+          <pub-id pub-id-type="pmid">16189810</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0031">
+        <label>31</label>
+        <element-citation publication-type="journal" id="sbref0031">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le Borgne</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Giraudeau</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Querard</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Giral</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Foucher</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparisons of the performances of different statistical tests for time-to-event analysis with confounding factors: practical illustrations in kidney transplantation</article-title>
+          <source>Stat Med</source>
+          <volume>35</volume>
+          <issue>7</issue>
+          <year>2016</year>
+          <fpage>1103</fpage>
+          <lpage>1116</lpage>
+          <pub-id pub-id-type="pmid">26514380</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0032">
+        <label>32</label>
+        <element-citation publication-type="journal" id="sbref0032">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reich</surname>
+              <given-names>H.N.</given-names>
+            </name>
+            <name>
+              <surname>Troyanov</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Scholey</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Cattran</surname>
+              <given-names>D.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Toronto glomerulonephritis registry: remission of proteinuria improves prognosis in IgA nephropathy</article-title>
+          <source>J Am Soc Nephrol</source>
+          <volume>18</volume>
+          <issue>12</issue>
+          <year>2007</year>
+          <fpage>3177</fpage>
+          <lpage>3183</lpage>
+          <pub-id pub-id-type="pmid">17978307</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0033">
+        <label>33</label>
+        <element-citation publication-type="journal" id="sbref0033">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rauen</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Fitzner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Eitner</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of two immunosuppressive treatment protocols for IgA nephropathy</article-title>
+          <source>J Am Soc Nephrol</source>
+          <volume>29</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>317</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="pmid">29042456</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0034">
+        <label>34</label>
+        <element-citation publication-type="journal" id="sbref0034">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coppo</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Corticosteroids in IgA nephropathy: lessons from recent studies</article-title>
+          <source>J Am Soc Nephrol</source>
+          <volume>28</volume>
+          <issue>1</issue>
+          <year>2017</year>
+          <fpage>25</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="pmid">27671778</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0035">
+        <label>35</label>
+        <element-citation publication-type="journal" id="sbref0035">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herlitz</surname>
+              <given-names>L.C.</given-names>
+            </name>
+            <name>
+              <surname>Bomback</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Stokes</surname>
+              <given-names>M.B.</given-names>
+            </name>
+            <name>
+              <surname>Radhakrishnan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>D'Agati</surname>
+              <given-names>V.D.</given-names>
+            </name>
+            <name>
+              <surname>Markowitz</surname>
+              <given-names>G.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>IgA nephropathy with minimal change disease</article-title>
+          <source>Clin J Am Soc Nephrol</source>
+          <volume>9</volume>
+          <issue>6</issue>
+          <year>2014</year>
+          <fpage>1033</fpage>
+          <lpage>1039</lpage>
+          <pub-id pub-id-type="pmid">24721885</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0036">
+        <label>36</label>
+        <element-citation publication-type="journal" id="sbref0036">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shoji</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakanishi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Early treatment with corticosteroids ameliorates proteinuria, proliferative lesions, and mesangial phenotypic modulation in adult diffuse proliferative IgA nephropathy</article-title>
+          <source>Am J Kidney Dis</source>
+          <volume>35</volume>
+          <issue>2</issue>
+          <year>2000</year>
+          <fpage>194</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">10676716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0037">
+        <label>37</label>
+        <element-citation publication-type="journal" id="sbref0037">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shen</surname>
+              <given-names>X.H.</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reversal of active glomerular lesions after immunosuppressive therapy in patients with IgA nephropathy: a repeat-biopsy based observation</article-title>
+          <source>J Nephrol</source>
+          <volume>28</volume>
+          <issue>4</issue>
+          <year>2015</year>
+          <fpage>441</fpage>
+          <lpage>449</lpage>
+          <pub-id pub-id-type="pmid">25585823</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0038">
+        <label>38</label>
+        <element-citation publication-type="journal" id="sbref0038">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Verhave</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A multicenter study of the predictive value of crescents in IgA nephropathy</article-title>
+          <source>J Am Soc Nephrol</source>
+          <volume>28</volume>
+          <issue>2</issue>
+          <year>2017</year>
+          <fpage>691</fpage>
+          <lpage>701</lpage>
+          <pub-id pub-id-type="pmid">27612994</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0039">
+        <label>39</label>
+        <element-citation publication-type="journal" id="sbref0039">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction and risk stratification of kidney outcomes in IgA nephropathy</article-title>
+          <source>Am J Kidney Dis</source>
+          <volume>74</volume>
+          <issue>3</issue>
+          <year>2019</year>
+          <fpage>300</fpage>
+          <lpage>309</lpage>
+          <pub-id pub-id-type="pmid">31031086</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib0040">
+        <label>40</label>
+        <element-citation publication-type="journal" id="sbref0040">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kawamura</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Wakai</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Risk stratification for progression of IgA nephropathy using a decision tree induction algorithm</article-title>
+          <source>Nephrol Dial Transplant</source>
+          <volume>24</volume>
+          <year>2009</year>
+          <fpage>1242</fpage>
+          <lpage>1247</lpage>
+          <pub-id pub-id-type="pmid">19017674</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec id="sec0022" sec-type="supplementary-material">
+      <label>Appendix</label>
+      <title>Supplementary materials</title>
+      <p id="para0048a">
+        <supplementary-material content-type="local-data" id="ecom0001">
+          <media xlink:href="mmc1.docx">
+            <alt-text>Image, application 1</alt-text>
+          </media>
+        </supplementary-material>
+      </p>
+    </sec>
+    <ack id="ack0001">
+      <sec id="sec0018">
+        <title>Acknowledgment</title>
+        <p id="para0050">The authors thank researchers from Renal Division, Department of Medicine, Peking University First Hospital, Beijing; Department of Nephrology, Sichuan Academy of Medical Sciences and Sichuan Provincial People's Hospital, Chengdu; Department of Nephrology, the First Affiliated Hospital of Wenzhou Medical College, Wenzhou; Department of Nephrology, Hangzhou Hospital of Traditional Chinese Medicine, Hangzhou; Department of Nephrology, Ruijin Hospital, Shanghai Jiaotong University, School of Medicine, Shanghai for their providing data for study validation. The authors also thank researchers from IBM Research &#x2013; China, Beijing for their providing domain expertise in healthcare artificial intelligence. The authors would like to acknowledge researchers from National Clinical Research centre of Kidney Diseases, Jinling hospital, Nanjing University School of Medicine, Nanjing; Renal Division, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai; Department of Nephrology, The Second Hospital, Jilin University, Changchun; Department of Kidney, Shandong Provincial Hospital, Shandong University, Jinan; Kidney Disease centre of The First Affiliated Hospital, Medical School of Zhejiang University, Hangzhou; Division of Nephrology, West China Hospital of Sichuan University, Chengdu; Department of Nephrology, The First Hospital of China Medical University; Department of Nephrology, General Hospital of Shenyang Military Command, Shenyang; Centre of Diagnosis and Treatment Kidney Disease of Beijing PLA, General Hospital of Beijing Military Army, Beijing; Department of Nephrology, The First Affiliated Hospital of Dalian Medical University, Dalian; Department of Nephrology, Xijing Hospital, Fourth Military Medical University, Xi'an; Department of Nephrology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou; Department of Nephrology, Beidaihe sanatorium of Beijing Military Area, Beidaihe; Department of Nephrology, General Hospital of Jinan Command, Jinan; Department of Nephrology, The First Affiliated Hospital of Nanjing Medical University, Nanjing; Department of Nephrology, Xiangya Hospital, Kidney Institute, Central South University, Changsha; Department of Nephrology, Second Xiangya Hospital, Kidney Institute, Central South University, Changsha for data collection.</p>
+      </sec>
+      <sec id="sec0019">
+        <title>Funding source</title>
+        <p id="para0051">This research was funded by National Key Research and Development Program of China (2016YFC0904103), National Key Technology R&amp;D Program (2015BAI12B02), Key Program of Social Development Project of Jiangsu Province (BE2016747), Clinical Research Center Program of Jiangsu Province (YXZXA2016003). The funders of this study had no role in the design of this study; collection, analysis, or interpretation of data; writing the report; or the decision to submit this report for publication. The corresponding author, Z-HL, and G-TX had full access to all the data in the study and had final responsibility for the decision to submit for publication.</p>
+      </sec>
+    </ack>
+    <fn-group>
+      <fn id="sec0021" fn-type="supplementary-material">
+        <p id="para0007a">Supplementary material associated with this article can be found in the online version at doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ebiom.2020.102657" id="interref0001">10.1016/j.ebiom.2020.102657</ext-link>.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+</pmc-articleset>

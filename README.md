@@ -1,4 +1,5 @@
 # gen_ppt_demo
+# pptxgenjs: https://gitbrent.github.io/PptxGenJS/
 
 ## Project setup
 ```
